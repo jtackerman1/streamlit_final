@@ -27,6 +27,8 @@ dataframes = {
     'Other': other_df,
     'Securities': securities_df
 }
+#add logo
+st.image('FinCenLogo.gif',use_column_width='auto')
 
 # app title
 st.title('Suspicious Activity Report (SAR) Data from 2014 - 2022')
@@ -36,6 +38,8 @@ selected_df = st.selectbox('Select Industry:', list(dataframes.keys()))
 
 # get the selected industry
 industry = dataframes[selected_df]
+
+
 
 # view grid details
 st.write('Industry Filings by State/Year')
