@@ -1,0 +1,541 @@
+﻿Industry,State_Territory,Year,Number_of_SARs
+Securities,Alabama,1/1/2014,69
+Securities,Alaska,1/1/2014,4
+Securities,American Samoa,1/1/2014,0
+Securities,Arizona,1/1/2014,371
+Securities,Arkansas,1/1/2014,22
+Securities,California,1/1/2014,2955
+Securities,Colorado,1/1/2014,540
+Securities,Connecticut,1/1/2014,613
+Securities,Delaware,1/1/2014,142
+Securities,District of Columbia,1/1/2014,74
+Securities,Federated States of Micronesia,1/1/2014,0
+Securities,Florida,1/1/2014,1303
+Securities,Georgia,1/1/2014,185
+Securities,Guam,1/1/2014,0
+Securities,Hawaii,1/1/2014,14
+Securities,Idaho,1/1/2014,18
+Securities,Illinois,1/1/2014,480
+Securities,Indiana,1/1/2014,117
+Securities,Iowa,1/1/2014,82
+Securities,Kansas,1/1/2014,29
+Securities,Kentucky,1/1/2014,108
+Securities,Louisiana,1/1/2014,45
+Securities,Maine,1/1/2014,11
+Securities,Marshall Islands,1/1/2014,0
+Securities,Maryland,1/1/2014,176
+Securities,Massachusetts,1/1/2014,2862
+Securities,Michigan,1/1/2014,116
+Securities,Minnesota,1/1/2014,507
+Securities,Mississippi,1/1/2014,17
+Securities,Missouri,1/1/2014,1272
+Securities,Montana,1/1/2014,15
+Securities,Nebraska,1/1/2014,885
+Securities,Nevada,1/1/2014,59
+Securities,New Hampshire,1/1/2014,32
+Securities,New Jersey,1/1/2014,1279
+Securities,New Mexico,1/1/2014,25
+Securities,New York,1/1/2014,2763
+Securities,North Carolina,1/1/2014,177
+Securities,North Dakota,1/1/2014,2
+Securities,Northern Mariana Islands,1/1/2014,0
+Securities,Ohio,1/1/2014,162
+Securities,Oklahoma,1/1/2014,43
+Securities,Oregon,1/1/2014,63
+Securities,Palau,1/1/2014,0
+Securities,Pennsylvania,1/1/2014,669
+Securities,Puerto Rico,1/1/2014,54
+Securities,Rhode Island,1/1/2014,2390
+Securities,South Carolina,1/1/2014,43
+Securities,South Dakota,1/1/2014,4
+Securities,Tennessee,1/1/2014,68
+Securities,Texas,1/1/2014,836
+Securities,U.S. Virgin Islands,1/1/2014,0
+Securities,Unknown/Blank,1/1/2014,46
+Securities,Utah,1/1/2014,5151
+Securities,Vermont,1/1/2014,13
+Securities,Virginia,1/1/2014,767
+Securities,Washington,1/1/2014,468
+Securities,West Virginia,1/1/2014,14
+Securities,Wisconsin,1/1/2014,166
+Securities,Wyoming,1/1/2014,4
+Securities,Alabama,1/1/2015,94
+Securities,Alaska,1/1/2015,7
+Securities,American Samoa,1/1/2015,0
+Securities,Arizona,1/1/2015,401
+Securities,Arkansas,1/1/2015,30
+Securities,California,1/1/2015,3940
+Securities,Colorado,1/1/2015,229
+Securities,Connecticut,1/1/2015,300
+Securities,Delaware,1/1/2015,141
+Securities,District of Columbia,1/1/2015,63
+Securities,Federated States of Micronesia,1/1/2015,0
+Securities,Florida,1/1/2015,1318
+Securities,Georgia,1/1/2015,200
+Securities,Guam,1/1/2015,0
+Securities,Hawaii,1/1/2015,17
+Securities,Idaho,1/1/2015,18
+Securities,Illinois,1/1/2015,591
+Securities,Indiana,1/1/2015,131
+Securities,Iowa,1/1/2015,97
+Securities,Kansas,1/1/2015,45
+Securities,Kentucky,1/1/2015,95
+Securities,Louisiana,1/1/2015,51
+Securities,Maine,1/1/2015,16
+Securities,Marshall Islands,1/1/2015,0
+Securities,Maryland,1/1/2015,133
+Securities,Massachusetts,1/1/2015,3022
+Securities,Michigan,1/1/2015,127
+Securities,Minnesota,1/1/2015,481
+Securities,Mississippi,1/1/2015,47
+Securities,Missouri,1/1/2015,1616
+Securities,Montana,1/1/2015,12
+Securities,Nebraska,1/1/2015,1007
+Securities,Nevada,1/1/2015,74
+Securities,New Hampshire,1/1/2015,27
+Securities,New Jersey,1/1/2015,1311
+Securities,New Mexico,1/1/2015,20
+Securities,New York,1/1/2015,3047
+Securities,North Carolina,1/1/2015,215
+Securities,North Dakota,1/1/2015,3
+Securities,Northern Mariana Islands,1/1/2015,0
+Securities,Ohio,1/1/2015,212
+Securities,Oklahoma,1/1/2015,51
+Securities,Oregon,1/1/2015,51
+Securities,Palau,1/1/2015,0
+Securities,Pennsylvania,1/1/2015,594
+Securities,Puerto Rico,1/1/2015,61
+Securities,Rhode Island,1/1/2015,2544
+Securities,South Carolina,1/1/2015,70
+Securities,South Dakota,1/1/2015,10
+Securities,Tennessee,1/1/2015,93
+Securities,Texas,1/1/2015,982
+Securities,U.S. Virgin Islands,1/1/2015,0
+Securities,Unknown/Blank,1/1/2015,75
+Securities,Utah,1/1/2015,2180
+Securities,Vermont,1/1/2015,16
+Securities,Virginia,1/1/2015,1145
+Securities,Washington,1/1/2015,438
+Securities,West Virginia,1/1/2015,8
+Securities,Wisconsin,1/1/2015,147
+Securities,Wyoming,1/1/2015,4
+Securities,Alabama,1/1/2016,67
+Securities,Alaska,1/1/2016,11
+Securities,American Samoa,1/1/2016,0
+Securities,Arizona,1/1/2016,279
+Securities,Arkansas,1/1/2016,30
+Securities,California,1/1/2016,4355
+Securities,Colorado,1/1/2016,335
+Securities,Connecticut,1/1/2016,438
+Securities,Delaware,1/1/2016,146
+Securities,District of Columbia,1/1/2016,52
+Securities,Federated States of Micronesia,1/1/2016,0
+Securities,Florida,1/1/2016,1504
+Securities,Georgia,1/1/2016,176
+Securities,Guam,1/1/2016,0
+Securities,Hawaii,1/1/2016,14
+Securities,Idaho,1/1/2016,18
+Securities,Illinois,1/1/2016,588
+Securities,Indiana,1/1/2016,109
+Securities,Iowa,1/1/2016,75
+Securities,Kansas,1/1/2016,44
+Securities,Kentucky,1/1/2016,113
+Securities,Louisiana,1/1/2016,56
+Securities,Maine,1/1/2016,10
+Securities,Marshall Islands,1/1/2016,0
+Securities,Maryland,1/1/2016,137
+Securities,Massachusetts,1/1/2016,3371
+Securities,Michigan,1/1/2016,136
+Securities,Minnesota,1/1/2016,509
+Securities,Mississippi,1/1/2016,33
+Securities,Missouri,1/1/2016,1625
+Securities,Montana,1/1/2016,16
+Securities,Nebraska,1/1/2016,1317
+Securities,Nevada,1/1/2016,83
+Securities,New Hampshire,1/1/2016,21
+Securities,New Jersey,1/1/2016,1332
+Securities,New Mexico,1/1/2016,33
+Securities,New York,1/1/2016,2933
+Securities,North Carolina,1/1/2016,205
+Securities,North Dakota,1/1/2016,6
+Securities,Northern Mariana Islands,1/1/2016,0
+Securities,Ohio,1/1/2016,261
+Securities,Oklahoma,1/1/2016,46
+Securities,Oregon,1/1/2016,69
+Securities,Palau,1/1/2016,0
+Securities,Pennsylvania,1/1/2016,803
+Securities,Puerto Rico,1/1/2016,24
+Securities,Rhode Island,1/1/2016,2798
+Securities,South Carolina,1/1/2016,53
+Securities,South Dakota,1/1/2016,4
+Securities,Tennessee,1/1/2016,80
+Securities,Texas,1/1/2016,1147
+Securities,U.S. Virgin Islands,1/1/2016,0
+Securities,Unknown/Blank,1/1/2016,125
+Securities,Utah,1/1/2016,195
+Securities,Vermont,1/1/2016,8
+Securities,Virginia,1/1/2016,990
+Securities,Washington,1/1/2016,466
+Securities,West Virginia,1/1/2016,9
+Securities,Wisconsin,1/1/2016,159
+Securities,Wyoming,1/1/2016,3
+Securities,Alabama,1/1/2017,68
+Securities,Alaska,1/1/2017,5
+Securities,American Samoa,1/1/2017,0
+Securities,Arizona,1/1/2017,263
+Securities,Arkansas,1/1/2017,34
+Securities,California,1/1/2017,6520
+Securities,Colorado,1/1/2017,291
+Securities,Connecticut,1/1/2017,667
+Securities,Delaware,1/1/2017,163
+Securities,District of Columbia,1/1/2017,48
+Securities,Federated States of Micronesia,1/1/2017,0
+Securities,Florida,1/1/2017,1621
+Securities,Georgia,1/1/2017,205
+Securities,Guam,1/1/2017,1
+Securities,Hawaii,1/1/2017,15
+Securities,Idaho,1/1/2017,21
+Securities,Illinois,1/1/2017,612
+Securities,Indiana,1/1/2017,112
+Securities,Iowa,1/1/2017,120
+Securities,Kansas,1/1/2017,52
+Securities,Kentucky,1/1/2017,107
+Securities,Louisiana,1/1/2017,48
+Securities,Maine,1/1/2017,11
+Securities,Marshall Islands,1/1/2017,0
+Securities,Maryland,1/1/2017,153
+Securities,Massachusetts,1/1/2017,4398
+Securities,Michigan,1/1/2017,114
+Securities,Minnesota,1/1/2017,571
+Securities,Mississippi,1/1/2017,13
+Securities,Missouri,1/1/2017,1700
+Securities,Montana,1/1/2017,12
+Securities,Nebraska,1/1/2017,1543
+Securities,Nevada,1/1/2017,53
+Securities,New Hampshire,1/1/2017,18
+Securities,New Jersey,1/1/2017,1319
+Securities,New Mexico,1/1/2017,22
+Securities,New York,1/1/2017,3529
+Securities,North Carolina,1/1/2017,215
+Securities,North Dakota,1/1/2017,10
+Securities,Northern Mariana Islands,1/1/2017,0
+Securities,Ohio,1/1/2017,245
+Securities,Oklahoma,1/1/2017,45
+Securities,Oregon,1/1/2017,96
+Securities,Palau,1/1/2017,0
+Securities,Pennsylvania,1/1/2017,1061
+Securities,Puerto Rico,1/1/2017,34
+Securities,Rhode Island,1/1/2017,3875
+Securities,South Carolina,1/1/2017,60
+Securities,South Dakota,1/1/2017,8
+Securities,Tennessee,1/1/2017,82
+Securities,Texas,1/1/2017,1267
+Securities,U.S. Virgin Islands,1/1/2017,2
+Securities,Unknown/Blank,1/1/2017,170
+Securities,Utah,1/1/2017,141
+Securities,Vermont,1/1/2017,13
+Securities,Virginia,1/1/2017,1541
+Securities,Washington,1/1/2017,220
+Securities,West Virginia,1/1/2017,11
+Securities,Wisconsin,1/1/2017,150
+Securities,Wyoming,1/1/2017,5
+Securities,Alabama,1/1/2018,58
+Securities,Alaska,1/1/2018,8
+Securities,American Samoa,1/1/2018,0
+Securities,Arizona,1/1/2018,202
+Securities,Arkansas,1/1/2018,24
+Securities,California,1/1/2018,8041
+Securities,Colorado,1/1/2018,292
+Securities,Connecticut,1/1/2018,1236
+Securities,Delaware,1/1/2018,124
+Securities,District of Columbia,1/1/2018,48
+Securities,Federated States of Micronesia,1/1/2018,0
+Securities,Florida,1/1/2018,1511
+Securities,Georgia,1/1/2018,234
+Securities,Guam,1/1/2018,0
+Securities,Hawaii,1/1/2018,13
+Securities,Idaho,1/1/2018,21
+Securities,Illinois,1/1/2018,602
+Securities,Indiana,1/1/2018,105
+Securities,Iowa,1/1/2018,146
+Securities,Kansas,1/1/2018,53
+Securities,Kentucky,1/1/2018,74
+Securities,Louisiana,1/1/2018,41
+Securities,Maine,1/1/2018,12
+Securities,Marshall Islands,1/1/2018,0
+Securities,Maryland,1/1/2018,169
+Securities,Massachusetts,1/1/2018,4620
+Securities,Michigan,1/1/2018,148
+Securities,Minnesota,1/1/2018,677
+Securities,Mississippi,1/1/2018,22
+Securities,Missouri,1/1/2018,1504
+Securities,Montana,1/1/2018,11
+Securities,Nebraska,1/1/2018,2522
+Securities,Nevada,1/1/2018,51
+Securities,New Hampshire,1/1/2018,14
+Securities,New Jersey,1/1/2018,1398
+Securities,New Mexico,1/1/2018,18
+Securities,New York,1/1/2018,3880
+Securities,North Carolina,1/1/2018,269
+Securities,North Dakota,1/1/2018,11
+Securities,Northern Mariana Islands,1/1/2018,0
+Securities,Ohio,1/1/2018,253
+Securities,Oklahoma,1/1/2018,69
+Securities,Oregon,1/1/2018,89
+Securities,Palau,1/1/2018,0
+Securities,Pennsylvania,1/1/2018,1443
+Securities,Puerto Rico,1/1/2018,59
+Securities,Rhode Island,1/1/2018,4149
+Securities,South Carolina,1/1/2018,59
+Securities,South Dakota,1/1/2018,9
+Securities,Tennessee,1/1/2018,97
+Securities,Texas,1/1/2018,1250
+Securities,U.S. Virgin Islands,1/1/2018,0
+Securities,Unknown/Blank,1/1/2018,105
+Securities,Utah,1/1/2018,257
+Securities,Vermont,1/1/2018,6
+Securities,Virginia,1/1/2018,1665
+Securities,Washington,1/1/2018,152
+Securities,West Virginia,1/1/2018,6
+Securities,Wisconsin,1/1/2018,146
+Securities,Wyoming,1/1/2018,2
+Securities,Alabama,1/1/2019,80
+Securities,Alaska,1/1/2019,7
+Securities,American Samoa,1/1/2019,0
+Securities,Arizona,1/1/2019,221
+Securities,Arkansas,1/1/2019,53
+Securities,California,1/1/2019,6585
+Securities,Colorado,1/1/2019,542
+Securities,Connecticut,1/1/2019,2707
+Securities,Delaware,1/1/2019,175
+Securities,District of Columbia,1/1/2019,71
+Securities,Federated States of Micronesia,1/1/2019,0
+Securities,Florida,1/1/2019,5546
+Securities,Georgia,1/1/2019,226
+Securities,Guam,1/1/2019,0
+Securities,Hawaii,1/1/2019,10
+Securities,Idaho,1/1/2019,13
+Securities,Illinois,1/1/2019,894
+Securities,Indiana,1/1/2019,110
+Securities,Iowa,1/1/2019,174
+Securities,Kansas,1/1/2019,61
+Securities,Kentucky,1/1/2019,62
+Securities,Louisiana,1/1/2019,44
+Securities,Maine,1/1/2019,13
+Securities,Marshall Islands,1/1/2019,0
+Securities,Maryland,1/1/2019,208
+Securities,Massachusetts,1/1/2019,6272
+Securities,Michigan,1/1/2019,148
+Securities,Minnesota,1/1/2019,913
+Securities,Mississippi,1/1/2019,16
+Securities,Missouri,1/1/2019,1588
+Securities,Montana,1/1/2019,9
+Securities,Nebraska,1/1/2019,3228
+Securities,Nevada,1/1/2019,89
+Securities,New Hampshire,1/1/2019,21
+Securities,New Jersey,1/1/2019,1209
+Securities,New Mexico,1/1/2019,27
+Securities,New York,1/1/2019,5589
+Securities,North Carolina,1/1/2019,417
+Securities,North Dakota,1/1/2019,7
+Securities,Northern Mariana Islands,1/1/2019,0
+Securities,Ohio,1/1/2019,209
+Securities,Oklahoma,1/1/2019,82
+Securities,Oregon,1/1/2019,134
+Securities,Palau,1/1/2019,0
+Securities,Pennsylvania,1/1/2019,1100
+Securities,Puerto Rico,1/1/2019,64
+Securities,Rhode Island,1/1/2019,5829
+Securities,South Carolina,1/1/2019,72
+Securities,South Dakota,1/1/2019,11
+Securities,Tennessee,1/1/2019,90
+Securities,Texas,1/1/2019,1369
+Securities,U.S. Virgin Islands,1/1/2019,0
+Securities,Unknown/Blank,1/1/2019,6
+Securities,Utah,1/1/2019,89
+Securities,Vermont,1/1/2019,13
+Securities,Virginia,1/1/2019,1546
+Securities,Washington,1/1/2019,150
+Securities,West Virginia,1/1/2019,15
+Securities,Wisconsin,1/1/2019,126
+Securities,Wyoming,1/1/2019,3
+Securities,Alabama,1/1/2020,67
+Securities,Alaska,1/1/2020,12
+Securities,American Samoa,1/1/2020,0
+Securities,Arizona,1/1/2020,181
+Securities,Arkansas,1/1/2020,47
+Securities,California,1/1/2020,12819
+Securities,Colorado,1/1/2020,758
+Securities,Connecticut,1/1/2020,3381
+Securities,Delaware,1/1/2020,141
+Securities,District of Columbia,1/1/2020,70
+Securities,Federated States of Micronesia,1/1/2020,0
+Securities,Florida,1/1/2020,4782
+Securities,Georgia,1/1/2020,241
+Securities,Guam,1/1/2020,0
+Securities,Hawaii,1/1/2020,16
+Securities,Idaho,1/1/2020,23
+Securities,Illinois,1/1/2020,1161
+Securities,Indiana,1/1/2020,83
+Securities,Iowa,1/1/2020,196
+Securities,Kansas,1/1/2020,74
+Securities,Kentucky,1/1/2020,60
+Securities,Louisiana,1/1/2020,42
+Securities,Maine,1/1/2020,28
+Securities,Marshall Islands,1/1/2020,0
+Securities,Maryland,1/1/2020,262
+Securities,Massachusetts,1/1/2020,8313
+Securities,Michigan,1/1/2020,145
+Securities,Minnesota,1/1/2020,874
+Securities,Mississippi,1/1/2020,19
+Securities,Missouri,1/1/2020,1599
+Securities,Montana,1/1/2020,21
+Securities,Nebraska,1/1/2020,4644
+Securities,Nevada,1/1/2020,110
+Securities,New Hampshire,1/1/2020,21
+Securities,New Jersey,1/1/2020,1106
+Securities,New Mexico,1/1/2020,32
+Securities,New York,1/1/2020,6457
+Securities,North Carolina,1/1/2020,563
+Securities,North Dakota,1/1/2020,13
+Securities,Northern Mariana Islands,1/1/2020,0
+Securities,Ohio,1/1/2020,194
+Securities,Oklahoma,1/1/2020,50
+Securities,Oregon,1/1/2020,112
+Securities,Palau,1/1/2020,0
+Securities,Pennsylvania,1/1/2020,1327
+Securities,Puerto Rico,1/1/2020,48
+Securities,Rhode Island,1/1/2020,7891
+Securities,South Carolina,1/1/2020,90
+Securities,South Dakota,1/1/2020,10
+Securities,Tennessee,1/1/2020,83
+Securities,Texas,1/1/2020,954
+Securities,U.S. Virgin Islands,1/1/2020,0
+Securities,Unknown/Blank,1/1/2020,5
+Securities,Utah,1/1/2020,105
+Securities,Vermont,1/1/2020,7
+Securities,Virginia,1/1/2020,1558
+Securities,Washington,1/1/2020,174
+Securities,West Virginia,1/1/2020,8
+Securities,Wisconsin,1/1/2020,131
+Securities,Wyoming,1/1/2020,6
+Securities,Alabama,1/1/2021,54
+Securities,Alaska,1/1/2021,5
+Securities,American Samoa,1/1/2021,0
+Securities,Arizona,1/1/2021,162
+Securities,Arkansas,1/1/2021,57
+Securities,California,1/1/2021,31427
+Securities,Colorado,1/1/2021,480
+Securities,Connecticut,1/1/2021,3624
+Securities,Delaware,1/1/2021,116
+Securities,District of Columbia,1/1/2021,64
+Securities,Federated States of Micronesia,1/1/2021,0
+Securities,Florida,1/1/2021,18146
+Securities,Georgia,1/1/2021,209
+Securities,Guam,1/1/2021,0
+Securities,Hawaii,1/1/2021,14
+Securities,Idaho,1/1/2021,14
+Securities,Illinois,1/1/2021,2469
+Securities,Indiana,1/1/2021,72
+Securities,Iowa,1/1/2021,170
+Securities,Kansas,1/1/2021,64
+Securities,Kentucky,1/1/2021,43
+Securities,Louisiana,1/1/2021,40
+Securities,Maine,1/1/2021,9
+Securities,Marshall Islands,1/1/2021,0
+Securities,Maryland,1/1/2021,210
+Securities,Massachusetts,1/1/2021,10052
+Securities,Michigan,1/1/2021,102
+Securities,Minnesota,1/1/2021,1002
+Securities,Mississippi,1/1/2021,19
+Securities,Missouri,1/1/2021,1809
+Securities,Montana,1/1/2021,16
+Securities,Nebraska,1/1/2021,6177
+Securities,Nevada,1/1/2021,68
+Securities,New Hampshire,1/1/2021,15
+Securities,New Jersey,1/1/2021,1303
+Securities,New Mexico,1/1/2021,26
+Securities,New York,1/1/2021,7987
+Securities,North Carolina,1/1/2021,646
+Securities,North Dakota,1/1/2021,5
+Securities,Northern Mariana Islands,1/1/2021,0
+Securities,Ohio,1/1/2021,166
+Securities,Oklahoma,1/1/2021,47
+Securities,Oregon,1/1/2021,118
+Securities,Palau,1/1/2021,0
+Securities,Pennsylvania,1/1/2021,1016
+Securities,Puerto Rico,1/1/2021,33
+Securities,Rhode Island,1/1/2021,9669
+Securities,South Carolina,1/1/2021,58
+Securities,South Dakota,1/1/2021,9
+Securities,Tennessee,1/1/2021,75
+Securities,Texas,1/1/2021,740
+Securities,U.S. Virgin Islands,1/1/2021,0
+Securities,Unknown/Blank,1/1/2021,21
+Securities,Utah,1/1/2021,84
+Securities,Vermont,1/1/2021,15
+Securities,Virginia,1/1/2021,1589
+Securities,Washington,1/1/2021,120
+Securities,West Virginia,1/1/2021,7
+Securities,Wisconsin,1/1/2021,120
+Securities,Wyoming,1/1/2021,8
+Securities,Alabama,1/1/2022,67
+Securities,Alaska,1/1/2022,8
+Securities,American Samoa,1/1/2022,0
+Securities,Arizona,1/1/2022,701
+Securities,Arkansas,1/1/2022,68
+Securities,California,1/1/2022,29003
+Securities,Colorado,1/1/2022,918
+Securities,Connecticut,1/1/2022,2823
+Securities,Delaware,1/1/2022,130
+Securities,District of Columbia,1/1/2022,47
+Securities,Federated States of Micronesia,1/1/2022,0
+Securities,Florida,1/1/2022,14638
+Securities,Georgia,1/1/2022,248
+Securities,Guam,1/1/2022,1
+Securities,Hawaii,1/1/2022,11
+Securities,Idaho,1/1/2022,17
+Securities,Illinois,1/1/2022,2881
+Securities,Indiana,1/1/2022,67
+Securities,Iowa,1/1/2022,154
+Securities,Kansas,1/1/2022,45
+Securities,Kentucky,1/1/2022,47
+Securities,Louisiana,1/1/2022,45
+Securities,Maine,1/1/2022,12
+Securities,Marshall Islands,1/1/2022,0
+Securities,Maryland,1/1/2022,310
+Securities,Massachusetts,1/1/2022,12235
+Securities,Michigan,1/1/2022,119
+Securities,Minnesota,1/1/2022,1230
+Securities,Mississippi,1/1/2022,25
+Securities,Missouri,1/1/2022,2175
+Securities,Montana,1/1/2022,12
+Securities,Nebraska,1/1/2022,6683
+Securities,Nevada,1/1/2022,77
+Securities,New Hampshire,1/1/2022,14
+Securities,New Jersey,1/1/2022,2227
+Securities,New Mexico,1/1/2022,14
+Securities,New York,1/1/2022,10902
+Securities,North Carolina,1/1/2022,601
+Securities,North Dakota,1/1/2022,4
+Securities,Northern Mariana Islands,1/1/2022,0
+Securities,Ohio,1/1/2022,223
+Securities,Oklahoma,1/1/2022,42
+Securities,Oregon,1/1/2022,215
+Securities,Palau,1/1/2022,0
+Securities,Pennsylvania,1/1/2022,1926
+Securities,Puerto Rico,1/1/2022,29
+Securities,Rhode Island,1/1/2022,11651
+Securities,South Carolina,1/1/2022,47
+Securities,South Dakota,1/1/2022,14
+Securities,Tennessee,1/1/2022,72
+Securities,Texas,1/1/2022,891
+Securities,U.S. Virgin Islands,1/1/2022,0
+Securities,Unknown/Blank,1/1/2022,38
+Securities,Utah,1/1/2022,625
+Securities,Vermont,1/1/2022,7
+Securities,Virginia,1/1/2022,1170
+Securities,Washington,1/1/2022,131
+Securities,West Virginia,1/1/2022,6
+Securities,Wisconsin,1/1/2022,155
+Securities,Wyoming,1/1/2022,10
