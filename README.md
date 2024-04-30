@@ -27,13 +27,15 @@ Highlighting this renewed emphasis, in August 2014, FinCEN issued an advisory em
 Source links:
 ABA Banking Journal:
 SPECIAL REPORT: Suspicious activity reports surge; 2023 filings on pace for another record | ABA Banking Journal
+https://bankingjournal.aba.com/2023/10/special-report-suspicious-activity-reports-surge-2023-filings-on-pace-for-another-record/
 
 Paul Hastings:
 Key Trends in BSA/AML Compliance: Heightened Regulatory Expectations as Industry Growth Presents New Challenges FPaul Hastings LLP
+https://www.paulhastings.com/insights/client-alerts/key-trends-in-bsaaml-compliance-heightened-regulatory-expectations-as-industry-growth-presents-new-challenges
 
 FinCen:
 SAR Filings by Industry | FinCEN.gov
-
+https://www.fincen.gov/reports/sar-stats/sar-filings-industry
 
 
 
