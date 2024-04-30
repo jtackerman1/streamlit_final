@@ -1,0 +1,1419 @@
+Industry,Year,Product,Count
+Casino/Card Club,2014,Credit Card,1
+Casino/Card Club,2014,[Total],1
+Casino/Card Club - Card Club,2014,Credit Card,3
+Casino/Card Club - Card Club,2014,Debit Card,2
+Casino/Card Club - Card Club,2014,Other,3
+Casino/Card Club - Card Club,2014,[Total],8
+Casino/Card Club - Other Casino/Card Club,2014,Credit Card,1
+Casino/Card Club - Other Casino/Card Club,2014,[Total],1
+Casino/Card Club - State Licensed Casino,2014,Bonds/Notes,7
+Casino/Card Club - State Licensed Casino,2014,Commercial Paper,2
+Casino/Card Club - State Licensed Casino,2014,Credit Card,648
+Casino/Card Club - State Licensed Casino,2014,Debit Card,72
+Casino/Card Club - State Licensed Casino,2014,Forex Transactions,1
+Casino/Card Club - State Licensed Casino,2014,Other,34
+Casino/Card Club - State Licensed Casino,2014,Prepaid Access,2
+Casino/Card Club - State Licensed Casino,2014,[Total],766
+Casino/Card Club - Tribal Authorized Casino,2014,Credit Card,155
+Casino/Card Club - Tribal Authorized Casino,2014,Debit Card,65
+Casino/Card Club - Tribal Authorized Casino,2014,Other,14
+Casino/Card Club - Tribal Authorized Casino,2014,Prepaid Access,1
+Casino/Card Club - Tribal Authorized Casino,2014,"Swap, Hybrid, or Other Derivative",1
+Casino/Card Club - Tribal Authorized Casino,2014,[Total],236
+Depository Institution,2014,Bonds/Notes,227
+Depository Institution,2014,Commercial Mortgage,456
+Depository Institution,2014,Commercial Paper,638
+Depository Institution,2014,Credit Card,85921
+Depository Institution,2014,Debit Card,53191
+Depository Institution,2014,Forex Transactions,366
+Depository Institution,2014,Futures/Options on Futures,16
+Depository Institution,2014,Hedge Fund,25
+Depository Institution,2014,Home Equity Line of Credit,4865
+Depository Institution,2014,Home Equity Loan,1559
+Depository Institution,2014,Insurance/Annuity Products,740
+Depository Institution,2014,Microcap Securities,176
+Depository Institution,2014,Mutual Fund,184
+Depository Institution,2014,Options on Securities,27
+Depository Institution,2014,Other,185564
+Depository Institution,2014,Prepaid Access,8588
+Depository Institution,2014,Residential Mortgage,29053
+Depository Institution,2014,Security Futures Products,35
+Depository Institution,2014,Stocks,154
+Depository Institution,2014,"Swap, Hybrid, or Other Derivative",20
+Depository Institution,2014,[Total],371805
+Housing Government Sponsored Enterprise GSE,2014,Bonds/Notes,1
+Housing Government Sponsored Enterprise GSE,2014,Other,1
+Housing Government Sponsored Enterprise GSE,2014,Residential Mortgage,89
+Housing Government Sponsored Enterprise GSE,2014,[Total],91
+Insurance Company,2014,Commercial Mortgage,2
+Insurance Company,2014,Credit Card,13
+Insurance Company,2014,Debit Card,5
+Insurance Company,2014,Insurance/Annuity Products,1118
+Insurance Company,2014,Microcap Securities,3
+Insurance Company,2014,Mutual Fund,4
+Insurance Company,2014,Other,145
+Insurance Company,2014,Prepaid Access,2
+Insurance Company,2014,Residential Mortgage,1
+Insurance Company,2014,Stocks,1
+Insurance Company,2014,[Total],1294
+Loan or Finance Company,2014,Home Equity Loan,1
+Loan or Finance Company,2014,Insurance/Annuity Products,1
+Loan or Finance Company,2014,Other,2
+Loan or Finance Company,2014,Residential Mortgage,60
+Loan or Finance Company,2014,[Total],64
+Money Services Business (MSB),2014,Bonds/Notes,8
+Money Services Business (MSB),2014,Commercial Paper,46
+Money Services Business (MSB),2014,Credit Card,5209
+Money Services Business (MSB),2014,Debit Card,10173
+Money Services Business (MSB),2014,Forex Transactions,580
+Money Services Business (MSB),2014,Home Equity Line of Credit,10
+Money Services Business (MSB),2014,Home Equity Loan,4
+Money Services Business (MSB),2014,Insurance/Annuity Products,8
+Money Services Business (MSB),2014,Microcap Securities,4
+Money Services Business (MSB),2014,Mutual Fund,17
+Money Services Business (MSB),2014,Options on Securities,1
+Money Services Business (MSB),2014,Other,222370
+Money Services Business (MSB),2014,Prepaid Access,23641
+Money Services Business (MSB),2014,Residential Mortgage,10
+Money Services Business (MSB),2014,Security Futures Products,1
+Money Services Business (MSB),2014,Stocks,3
+Money Services Business (MSB),2014,[Total],262085
+Other,2014,Bonds/Notes,51
+Other,2014,Commercial Mortgage,8
+Other,2014,Commercial Paper,4
+Other,2014,Credit Card,17528
+Other,2014,Debit Card,641
+Other,2014,Forex Transactions,21
+Other,2014,Futures/Options on Futures,1
+Other,2014,Hedge Fund,3
+Other,2014,Home Equity Line of Credit,14
+Other,2014,Home Equity Loan,10
+Other,2014,Insurance/Annuity Products,12
+Other,2014,Microcap Securities,210
+Other,2014,Mutual Fund,698
+Other,2014,Options on Securities,20
+Other,2014,Other,3136
+Other,2014,Prepaid Access,3232
+Other,2014,Residential Mortgage,3443
+Other,2014,Security Futures Products,2
+Other,2014,Stocks,414
+Other,2014,[Total],29448
+Securities/Futures,2014,Bonds/Notes,166
+Securities/Futures,2014,Commercial Mortgage,3
+Securities/Futures,2014,Credit Card,75
+Securities/Futures,2014,Debit Card,1003
+Securities/Futures,2014,Forex Transactions,107
+Securities/Futures,2014,Futures/Options on Futures,33
+Securities/Futures,2014,Hedge Fund,14
+Securities/Futures,2014,Home Equity Line of Credit,3
+Securities/Futures,2014,Home Equity Loan,2
+Securities/Futures,2014,Insurance/Annuity Products,101
+Securities/Futures,2014,Microcap Securities,1823
+Securities/Futures,2014,Mutual Fund,1477
+Securities/Futures,2014,Options on Securities,215
+Securities/Futures,2014,Other,801
+Securities/Futures,2014,Prepaid Access,28
+Securities/Futures,2014,Residential Mortgage,8
+Securities/Futures,2014,Security Futures Products,9
+Securities/Futures,2014,Stocks,7091
+Securities/Futures,2014,"Swap, Hybrid, or Other Derivative",11
+Securities/Futures,2014,[Total],12970
+Total SARS,2014,,678769
+Casino/Card Club - Card Club,2015,Credit Card,10
+Casino/Card Club - Card Club,2015,Debit Card,2
+Casino/Card Club - Card Club,2015,[Total],12
+Casino/Card Club - State Licensed Casino,2015,Bonds/Notes,1
+Casino/Card Club - State Licensed Casino,2015,Commercial Mortgage,1
+Casino/Card Club - State Licensed Casino,2015,Commercial Paper,2
+Casino/Card Club - State Licensed Casino,2015,Credit Card,723
+Casino/Card Club - State Licensed Casino,2015,Debit Card,86
+Casino/Card Club - State Licensed Casino,2015,Forex Transactions,2
+Casino/Card Club - State Licensed Casino,2015,Other,64
+Casino/Card Club - State Licensed Casino,2015,Prepaid Access,10
+Casino/Card Club - State Licensed Casino,2015,[Total],889
+Casino/Card Club - Tribal Authorized Casino,2015,Commercial Paper,1
+Casino/Card Club - Tribal Authorized Casino,2015,Credit Card,339
+Casino/Card Club - Tribal Authorized Casino,2015,Debit Card,191
+Casino/Card Club - Tribal Authorized Casino,2015,Other,11
+Casino/Card Club - Tribal Authorized Casino,2015,"Swap, Hybrid, or Other Derivative",1
+Casino/Card Club - Tribal Authorized Casino,2015,[Total],543
+Depository Institution,2015,Bonds/Notes,240
+Depository Institution,2015,Commercial Mortgage,436
+Depository Institution,2015,Commercial Paper,715
+Depository Institution,2015,Credit Card,98837
+Depository Institution,2015,Debit Card,84165
+Depository Institution,2015,Forex Transactions,262
+Depository Institution,2015,Futures/Options on Futures,11
+Depository Institution,2015,Hedge Fund,24
+Depository Institution,2015,Home Equity Line of Credit,5191
+Depository Institution,2015,Home Equity Loan,1291
+Depository Institution,2015,Insurance/Annuity Products,279
+Depository Institution,2015,Microcap Securities,186
+Depository Institution,2015,Mutual Fund,132
+Depository Institution,2015,Options on Securities,41
+Depository Institution,2015,Other,199703
+Depository Institution,2015,Prepaid Access,6594
+Depository Institution,2015,Residential Mortgage,21990
+Depository Institution,2015,Security Futures Products,37
+Depository Institution,2015,Stocks,189
+Depository Institution,2015,"Swap, Hybrid, or Other Derivative",20
+Depository Institution,2015,[Total],420343
+Housing Government Sponsored Enterprise GSE,2015,Credit Card,1
+Housing Government Sponsored Enterprise GSE,2015,Other,5
+Housing Government Sponsored Enterprise GSE,2015,Residential Mortgage,515
+Housing Government Sponsored Enterprise GSE,2015,[Total],521
+Insurance Company,2015,Commercial Mortgage,1
+Insurance Company,2015,Credit Card,7
+Insurance Company,2015,Debit Card,3
+Insurance Company,2015,Insurance/Annuity Products,1389
+Insurance Company,2015,Microcap Securities,1
+Insurance Company,2015,Mutual Fund,8
+Insurance Company,2015,Other,66
+Insurance Company,2015,Prepaid Access,1
+Insurance Company,2015,Residential Mortgage,1
+Insurance Company,2015,Security Futures Products,1
+Insurance Company,2015,Stocks,2
+Insurance Company,2015,[Total],1480
+Loan or Finance Company,2015,Bonds/Notes,1
+Loan or Finance Company,2015,Commercial Paper,1
+Loan or Finance Company,2015,Credit Card,4
+Loan or Finance Company,2015,Debit Card,2
+Loan or Finance Company,2015,Home Equity Line of Credit,4
+Loan or Finance Company,2015,Home Equity Loan,4
+Loan or Finance Company,2015,Insurance/Annuity Products,4
+Loan or Finance Company,2015,Other,11
+Loan or Finance Company,2015,Prepaid Access,1
+Loan or Finance Company,2015,Residential Mortgage,1142
+Loan or Finance Company,2015,[Total],1174
+Money Services Business (MSB),2015,Bonds/Notes,14
+Money Services Business (MSB),2015,Commercial Paper,23
+Money Services Business (MSB),2015,Credit Card,7155
+Money Services Business (MSB),2015,Debit Card,21321
+Money Services Business (MSB),2015,Forex Transactions,678
+Money Services Business (MSB),2015,Futures/Options on Futures,1
+Money Services Business (MSB),2015,Home Equity Line of Credit,4
+Money Services Business (MSB),2015,Insurance/Annuity Products,11
+Money Services Business (MSB),2015,Microcap Securities,7
+Money Services Business (MSB),2015,Mutual Fund,2
+Money Services Business (MSB),2015,Options on Securities,1
+Money Services Business (MSB),2015,Other,196274
+Money Services Business (MSB),2015,Prepaid Access,15619
+Money Services Business (MSB),2015,Residential Mortgage,11
+Money Services Business (MSB),2015,Security Futures Products,1
+Money Services Business (MSB),2015,Stocks,5
+Money Services Business (MSB),2015,"Swap, Hybrid, or Other Derivative",6
+Money Services Business (MSB),2015,[Total],241133
+Other,2015,Bonds/Notes,50
+Other,2015,Commercial Mortgage,3
+Other,2015,Commercial Paper,2
+Other,2015,Credit Card,20015
+Other,2015,Debit Card,919
+Other,2015,Forex Transactions,51
+Other,2015,Futures/Options on Futures,9
+Other,2015,Hedge Fund,35
+Other,2015,Home Equity Line of Credit,4
+Other,2015,Home Equity Loan,14
+Other,2015,Insurance/Annuity Products,4
+Other,2015,Microcap Securities,359
+Other,2015,Mutual Fund,612
+Other,2015,Options on Securities,36
+Other,2015,Other,5916
+Other,2015,Prepaid Access,4765
+Other,2015,Residential Mortgage,3946
+Other,2015,Security Futures Products,2
+Other,2015,Stocks,502
+Other,2015,[Total],37244
+Securities/Futures,2015,Bonds/Notes,152
+Securities/Futures,2015,Commercial Mortgage,1
+Securities/Futures,2015,Commercial Paper,7
+Securities/Futures,2015,Credit Card,74
+Securities/Futures,2015,Debit Card,1231
+Securities/Futures,2015,Forex Transactions,68
+Securities/Futures,2015,Futures/Options on Futures,28
+Securities/Futures,2015,Hedge Fund,9
+Securities/Futures,2015,Home Equity Line of Credit,5
+Securities/Futures,2015,Home Equity Loan,1
+Securities/Futures,2015,Insurance/Annuity Products,103
+Securities/Futures,2015,Microcap Securities,2949
+Securities/Futures,2015,Mutual Fund,1014
+Securities/Futures,2015,Options on Securities,192
+Securities/Futures,2015,Other,1018
+Securities/Futures,2015,Prepaid Access,69
+Securities/Futures,2015,Residential Mortgage,9
+Securities/Futures,2015,Security Futures Products,11
+Securities/Futures,2015,Stocks,4625
+Securities/Futures,2015,"Swap, Hybrid, or Other Derivative",11
+Securities/Futures,2015,[Total],11577
+Total SARS,2015,,714916
+Casino/Card Club - Card Club,2016,Credit Card,22
+Casino/Card Club - Card Club,2016,Debit Card,2
+Casino/Card Club - Card Club,2016,Other,1
+Casino/Card Club - Card Club,2016,[Total],25
+Casino/Card Club - Other Casino/Card Club,2016,Credit Card,4
+Casino/Card Club - Other Casino/Card Club,2016,[Total],4
+Casino/Card Club - State Licensed Casino,2016,Bonds/Notes,1
+Casino/Card Club - State Licensed Casino,2016,Credit Card,701
+Casino/Card Club - State Licensed Casino,2016,Debit Card,170
+Casino/Card Club - State Licensed Casino,2016,Forex Transactions,1
+Casino/Card Club - State Licensed Casino,2016,Microcap Securities,1
+Casino/Card Club - State Licensed Casino,2016,Other,60
+Casino/Card Club - State Licensed Casino,2016,Prepaid Access,15
+Casino/Card Club - State Licensed Casino,2016,[Total],949
+Casino/Card Club - Tribal Authorized Casino,2016,Bonds/Notes,1
+Casino/Card Club - Tribal Authorized Casino,2016,Commercial Paper,1
+Casino/Card Club - Tribal Authorized Casino,2016,Credit Card,267
+Casino/Card Club - Tribal Authorized Casino,2016,Debit Card,85
+Casino/Card Club - Tribal Authorized Casino,2016,Other,28
+Casino/Card Club - Tribal Authorized Casino,2016,Prepaid Access,2
+Casino/Card Club - Tribal Authorized Casino,2016,"Swap, Hybrid, or Other Derivative",1
+Casino/Card Club - Tribal Authorized Casino,2016,[Total],385
+Depository Institution,2016,Bonds/Notes,277
+Depository Institution,2016,Commercial Mortgage,408
+Depository Institution,2016,Commercial Paper,701
+Depository Institution,2016,Credit Card,104479
+Depository Institution,2016,Debit Card,116754
+Depository Institution,2016,Forex Transactions,360
+Depository Institution,2016,Futures/Options on Futures,16
+Depository Institution,2016,Hedge Fund,41
+Depository Institution,2016,Home Equity Line of Credit,5747
+Depository Institution,2016,Home Equity Loan,1274
+Depository Institution,2016,Insurance/Annuity Products,263
+Depository Institution,2016,Microcap Securities,195
+Depository Institution,2016,Mutual Fund,150
+Depository Institution,2016,Options on Securities,22
+Depository Institution,2016,Other,223632
+Depository Institution,2016,Prepaid Access,25213
+Depository Institution,2016,Residential Mortgage,18655
+Depository Institution,2016,Security Futures Products,36
+Depository Institution,2016,Stocks,213
+Depository Institution,2016,"Swap, Hybrid, or Other Derivative",26
+Depository Institution,2016,[Total],498462
+Housing Government Sponsored Enterprise GSE,2016,Commercial Mortgage,1
+Housing Government Sponsored Enterprise GSE,2016,Credit Card,1
+Housing Government Sponsored Enterprise GSE,2016,Debit Card,1
+Housing Government Sponsored Enterprise GSE,2016,Insurance/Annuity Products,1
+Housing Government Sponsored Enterprise GSE,2016,Other,9
+Housing Government Sponsored Enterprise GSE,2016,Residential Mortgage,1198
+Housing Government Sponsored Enterprise GSE,2016,[Total],1211
+Insurance Company,2016,Credit Card,7
+Insurance Company,2016,Debit Card,1
+Insurance Company,2016,Insurance/Annuity Products,1935
+Insurance Company,2016,Microcap Securities,1
+Insurance Company,2016,Mutual Fund,14
+Insurance Company,2016,Other,69
+Insurance Company,2016,Prepaid Access,1
+Insurance Company,2016,Residential Mortgage,2
+Insurance Company,2016,Stocks,4
+Insurance Company,2016,[Total],2034
+Loan or Finance Company,2016,Bonds/Notes,2
+Loan or Finance Company,2016,Commercial Mortgage,5
+Loan or Finance Company,2016,Commercial Paper,1
+Loan or Finance Company,2016,Credit Card,1
+Loan or Finance Company,2016,Debit Card,2
+Loan or Finance Company,2016,Home Equity Line of Credit,5
+Loan or Finance Company,2016,Home Equity Loan,4
+Loan or Finance Company,2016,Insurance/Annuity Products,2
+Loan or Finance Company,2016,Mutual Fund,2
+Loan or Finance Company,2016,Other,32
+Loan or Finance Company,2016,Prepaid Access,3
+Loan or Finance Company,2016,Residential Mortgage,2500
+Loan or Finance Company,2016,[Total],2559
+Money Services Business (MSB),2016,Bonds/Notes,20
+Money Services Business (MSB),2016,Commercial Mortgage,4
+Money Services Business (MSB),2016,Commercial Paper,13
+Money Services Business (MSB),2016,Credit Card,21227
+Money Services Business (MSB),2016,Debit Card,58251
+Money Services Business (MSB),2016,Forex Transactions,463
+Money Services Business (MSB),2016,Futures/Options on Futures,2
+Money Services Business (MSB),2016,Hedge Fund,7
+Money Services Business (MSB),2016,Home Equity Line of Credit,6
+Money Services Business (MSB),2016,Home Equity Loan,5
+Money Services Business (MSB),2016,Insurance/Annuity Products,17
+Money Services Business (MSB),2016,Microcap Securities,4
+Money Services Business (MSB),2016,Mutual Fund,2
+Money Services Business (MSB),2016,Options on Securities,5
+Money Services Business (MSB),2016,Other,27244
+Money Services Business (MSB),2016,Prepaid Access,12966
+Money Services Business (MSB),2016,Residential Mortgage,14
+Money Services Business (MSB),2016,Security Futures Products,2
+Money Services Business (MSB),2016,Stocks,2
+Money Services Business (MSB),2016,[Total],120254
+Other,2016,Bonds/Notes,42
+Other,2016,Commercial Mortgage,2
+Other,2016,Commercial Paper,7
+Other,2016,Credit Card,20303
+Other,2016,Debit Card,1074
+Other,2016,Forex Transactions,32
+Other,2016,Futures/Options on Futures,6
+Other,2016,Hedge Fund,45
+Other,2016,Home Equity Line of Credit,19
+Other,2016,Home Equity Loan,12
+Other,2016,Insurance/Annuity Products,14
+Other,2016,Microcap Securities,203
+Other,2016,Mutual Fund,391
+Other,2016,Options on Securities,33
+Other,2016,Other,10260
+Other,2016,Prepaid Access,2667
+Other,2016,Residential Mortgage,4112
+Other,2016,Security Futures Products,2
+Other,2016,Stocks,475
+Other,2016,"Swap, Hybrid, or Other Derivative",2
+Other,2016,[Total],39701
+Securities/Futures,2016,Bonds/Notes,192
+Securities/Futures,2016,Commercial Mortgage,3
+Securities/Futures,2016,Commercial Paper,3
+Securities/Futures,2016,Credit Card,80
+Securities/Futures,2016,Debit Card,937
+Securities/Futures,2016,Forex Transactions,30
+Securities/Futures,2016,Futures/Options on Futures,57
+Securities/Futures,2016,Hedge Fund,19
+Securities/Futures,2016,Home Equity Line of Credit,6
+Securities/Futures,2016,Home Equity Loan,3
+Securities/Futures,2016,Insurance/Annuity Products,93
+Securities/Futures,2016,Microcap Securities,1218
+Securities/Futures,2016,Mutual Fund,1306
+Securities/Futures,2016,Options on Securities,205
+Securities/Futures,2016,Other,1128
+Securities/Futures,2016,Prepaid Access,59
+Securities/Futures,2016,Residential Mortgage,15
+Securities/Futures,2016,Security Futures Products,11
+Securities/Futures,2016,Stocks,2771
+Securities/Futures,2016,"Swap, Hybrid, or Other Derivative",8
+Securities/Futures,2016,[Total],8144
+Total SARS,2016,,673728
+Casino/Card Club - Card Club,2017,Credit Card,19
+Casino/Card Club - Card Club,2017,Debit Card,4
+Casino/Card Club - Card Club,2017,Other,1
+Casino/Card Club - Card Club,2017,[Total],24
+Casino/Card Club - Other Casino/Card Club,2017,Credit Card,2
+Casino/Card Club - Other Casino/Card Club,2017,[Total],2
+Casino/Card Club - State Licensed Casino,2017,Credit Card,854
+Casino/Card Club - State Licensed Casino,2017,Debit Card,167
+Casino/Card Club - State Licensed Casino,2017,Other,69
+Casino/Card Club - State Licensed Casino,2017,Prepaid Access,9
+Casino/Card Club - State Licensed Casino,2017,Residential Mortgage,1
+Casino/Card Club - State Licensed Casino,2017,Stocks,1
+Casino/Card Club - State Licensed Casino,2017,[Total],1101
+Casino/Card Club - Tribal Authorized Casino,2017,Bonds/Notes,1
+Casino/Card Club - Tribal Authorized Casino,2017,Credit Card,290
+Casino/Card Club - Tribal Authorized Casino,2017,Debit Card,75
+Casino/Card Club - Tribal Authorized Casino,2017,Other,20
+Casino/Card Club - Tribal Authorized Casino,2017,Prepaid Access,1
+Casino/Card Club - Tribal Authorized Casino,2017,[Total],387
+Depository Institution,2017,Bonds/Notes,283
+Depository Institution,2017,Commercial Mortgage,435
+Depository Institution,2017,Commercial Paper,270
+Depository Institution,2017,Credit Card,119155
+Depository Institution,2017,Debit Card,126768
+Depository Institution,2017,Forex Transactions,681
+Depository Institution,2017,Futures/Options on Futures,20
+Depository Institution,2017,Hedge Fund,38
+Depository Institution,2017,Home Equity Line of Credit,5632
+Depository Institution,2017,Home Equity Loan,1206
+Depository Institution,2017,Insurance/Annuity Products,347
+Depository Institution,2017,Microcap Securities,251
+Depository Institution,2017,Mutual Fund,120
+Depository Institution,2017,Options on Securities,20
+Depository Institution,2017,Other,166852
+Depository Institution,2017,Prepaid Access,7158
+Depository Institution,2017,Residential Mortgage,12991
+Depository Institution,2017,Security Futures Products,22
+Depository Institution,2017,Stocks,155
+Depository Institution,2017,"Swap, Hybrid, or Other Derivative",15
+Depository Institution,2017,[Total],442419
+Housing Government Sponsored Enterprise GSE,2017,Commercial Mortgage,1
+Housing Government Sponsored Enterprise GSE,2017,Home Equity Line of Credit,2
+Housing Government Sponsored Enterprise GSE,2017,Home Equity Loan,1
+Housing Government Sponsored Enterprise GSE,2017,Insurance/Annuity Products,5
+Housing Government Sponsored Enterprise GSE,2017,Other,29
+Housing Government Sponsored Enterprise GSE,2017,Residential Mortgage,1469
+Housing Government Sponsored Enterprise GSE,2017,"Swap, Hybrid, or Other Derivative",1
+Housing Government Sponsored Enterprise GSE,2017,[Total],1508
+Insurance Company,2017,Bonds/Notes,1
+Insurance Company,2017,Credit Card,6
+Insurance Company,2017,Debit Card,2
+Insurance Company,2017,Insurance/Annuity Products,2267
+Insurance Company,2017,Mutual Fund,13
+Insurance Company,2017,Other,105
+Insurance Company,2017,Prepaid Access,2
+Insurance Company,2017,Security Futures Products,1
+Insurance Company,2017,Stocks,3
+Insurance Company,2017,[Total],2400
+Loan or Finance Company,2017,Bonds/Notes,1
+Loan or Finance Company,2017,Commercial Mortgage,15
+Loan or Finance Company,2017,Credit Card,2
+Loan or Finance Company,2017,Debit Card,2
+Loan or Finance Company,2017,Forex Transactions,1
+Loan or Finance Company,2017,Home Equity Line of Credit,5
+Loan or Finance Company,2017,Home Equity Loan,5
+Loan or Finance Company,2017,Other,85
+Loan or Finance Company,2017,Residential Mortgage,3505
+Loan or Finance Company,2017,[Total],3621
+Money Services Business (MSB),2017,Bonds/Notes,6
+Money Services Business (MSB),2017,Commercial Mortgage,2
+Money Services Business (MSB),2017,Commercial Paper,11
+Money Services Business (MSB),2017,Credit Card,27424
+Money Services Business (MSB),2017,Debit Card,76958
+Money Services Business (MSB),2017,Forex Transactions,481
+Money Services Business (MSB),2017,Futures/Options on Futures,3
+Money Services Business (MSB),2017,Hedge Fund,2
+Money Services Business (MSB),2017,Home Equity Line of Credit,1
+Money Services Business (MSB),2017,Home Equity Loan,1
+Money Services Business (MSB),2017,Insurance/Annuity Products,20
+Money Services Business (MSB),2017,Microcap Securities,3
+Money Services Business (MSB),2017,Mutual Fund,3
+Money Services Business (MSB),2017,Options on Securities,2
+Money Services Business (MSB),2017,Other,13455
+Money Services Business (MSB),2017,Prepaid Access,31170
+Money Services Business (MSB),2017,Residential Mortgage,14
+Money Services Business (MSB),2017,Stocks,2
+Money Services Business (MSB),2017,"Swap, Hybrid, or Other Derivative",1
+Money Services Business (MSB),2017,[Total],149559
+Other,2017,Bonds/Notes,74
+Other,2017,Commercial Mortgage,18
+Other,2017,Commercial Paper,22
+Other,2017,Credit Card,22572
+Other,2017,Debit Card,6326
+Other,2017,Forex Transactions,65
+Other,2017,Futures/Options on Futures,16
+Other,2017,Hedge Fund,35
+Other,2017,Home Equity Line of Credit,301
+Other,2017,Home Equity Loan,98
+Other,2017,Insurance/Annuity Products,300
+Other,2017,Microcap Securities,145
+Other,2017,Mutual Fund,494
+Other,2017,Options on Securities,46
+Other,2017,Other,84829
+Other,2017,Prepaid Access,2565
+Other,2017,Residential Mortgage,10343
+Other,2017,Security Futures Products,4
+Other,2017,Stocks,464
+Other,2017,"Swap, Hybrid, or Other Derivative",2
+Other,2017,[Total],128719
+Securities/Futures,2017,Bonds/Notes,183
+Securities/Futures,2017,Commercial Mortgage,3
+Securities/Futures,2017,Commercial Paper,1
+Securities/Futures,2017,Credit Card,128
+Securities/Futures,2017,Debit Card,973
+Securities/Futures,2017,Forex Transactions,36
+Securities/Futures,2017,Futures/Options on Futures,50
+Securities/Futures,2017,Hedge Fund,33
+Securities/Futures,2017,Home Equity Line of Credit,7
+Securities/Futures,2017,Home Equity Loan,1
+Securities/Futures,2017,Insurance/Annuity Products,196
+Securities/Futures,2017,Microcap Securities,1593
+Securities/Futures,2017,Mutual Fund,1720
+Securities/Futures,2017,Options on Securities,322
+Securities/Futures,2017,Other,1400
+Securities/Futures,2017,Prepaid Access,131
+Securities/Futures,2017,Residential Mortgage,17
+Securities/Futures,2017,Security Futures Products,11
+Securities/Futures,2017,Stocks,3285
+Securities/Futures,2017,"Swap, Hybrid, or Other Derivative",10
+Securities/Futures,2017,[Total],10100
+Total SARS,2017,,739840
+Casino/Card Club - Card Club,2018,Credit Card,10
+Casino/Card Club - Card Club,2018,Debit Card,3
+Casino/Card Club - Card Club,2018,Other,2
+Casino/Card Club - Card Club,2018,[Total],15
+Casino/Card Club - Other Casino/Card Club,2018,Credit Card,2
+Casino/Card Club - Other Casino/Card Club,2018,[Total],2
+Casino/Card Club - State Licensed Casino,2018,Bonds/Notes,1
+Casino/Card Club - State Licensed Casino,2018,Credit Card,1590
+Casino/Card Club - State Licensed Casino,2018,Debit Card,284
+Casino/Card Club - State Licensed Casino,2018,Deposit Account,5
+Casino/Card Club - State Licensed Casino,2018,Other,105
+Casino/Card Club - State Licensed Casino,2018,Prepaid Access,4
+Casino/Card Club - State Licensed Casino,2018,Security Futures Products,2
+Casino/Card Club - State Licensed Casino,2018,[Total],1991
+Casino/Card Club - Tribal Authorized Casino,2018,Bonds/Notes,1
+Casino/Card Club - Tribal Authorized Casino,2018,Credit Card,372
+Casino/Card Club - Tribal Authorized Casino,2018,Debit Card,108
+Casino/Card Club - Tribal Authorized Casino,2018,Forex Transactions,1
+Casino/Card Club - Tribal Authorized Casino,2018,Other,36
+Casino/Card Club - Tribal Authorized Casino,2018,Prepaid Access,2
+Casino/Card Club - Tribal Authorized Casino,2018,"Swap, Hybrid, or Other Derivative",1
+Casino/Card Club - Tribal Authorized Casino,2018,[Total],521
+Depository Institution,2018,Bonds/Notes,217
+Depository Institution,2018,Commercial Mortgage,467
+Depository Institution,2018,Commercial Paper,219
+Depository Institution,2018,Credit Card,162435
+Depository Institution,2018,Debit Card,146218
+Depository Institution,2018,Deposit Account,58300
+Depository Institution,2018,Forex Transactions,582
+Depository Institution,2018,Futures/Options on Futures,13
+Depository Institution,2018,Hedge Fund,45
+Depository Institution,2018,Home Equity Line of Credit,5645
+Depository Institution,2018,Home Equity Loan,878
+Depository Institution,2018,Insurance/Annuity Products,308
+Depository Institution,2018,Microcap Securities,210
+Depository Institution,2018,Mutual Fund,150
+Depository Institution,2018,Options on Securities,35
+Depository Institution,2018,Other,137347
+Depository Institution,2018,Prepaid Access,9644
+Depository Institution,2018,Residential Mortgage,10799
+Depository Institution,2018,Security Futures Products,16
+Depository Institution,2018,Stocks,345
+Depository Institution,2018,"Swap, Hybrid, or Other Derivative",9
+Depository Institution,2018,[Total],533882
+Housing Government Sponsored Enterprise GSE,2018,Bonds/Notes,2
+Housing Government Sponsored Enterprise GSE,2018,Commercial Mortgage,8
+Housing Government Sponsored Enterprise GSE,2018,Deposit Account,1
+Housing Government Sponsored Enterprise GSE,2018,Home Equity Line of Credit,1
+Housing Government Sponsored Enterprise GSE,2018,Home Equity Loan,1
+Housing Government Sponsored Enterprise GSE,2018,Insurance/Annuity Products,2
+Housing Government Sponsored Enterprise GSE,2018,Other,15
+Housing Government Sponsored Enterprise GSE,2018,Residential Mortgage,1633
+Housing Government Sponsored Enterprise GSE,2018,Stocks,1
+Housing Government Sponsored Enterprise GSE,2018,[Total],1664
+Insurance Company,2018,Credit Card,13
+Insurance Company,2018,Debit Card,6
+Insurance Company,2018,Deposit Account,10
+Insurance Company,2018,Home Equity Line of Credit,1
+Insurance Company,2018,Insurance/Annuity Products,2101
+Insurance Company,2018,Mutual Fund,21
+Insurance Company,2018,Other,109
+Insurance Company,2018,Prepaid Access,3
+Insurance Company,2018,Residential Mortgage,4
+Insurance Company,2018,Security Futures Products,1
+Insurance Company,2018,Stocks,4
+Insurance Company,2018,[Total],2273
+Loan or Finance Company,2018,Bonds/Notes,4
+Loan or Finance Company,2018,Commercial Mortgage,11
+Loan or Finance Company,2018,Commercial Paper,1
+Loan or Finance Company,2018,Credit Card,6
+Loan or Finance Company,2018,Debit Card,5
+Loan or Finance Company,2018,Deposit Account,28
+Loan or Finance Company,2018,Home Equity Line of Credit,10
+Loan or Finance Company,2018,Home Equity Loan,26
+Loan or Finance Company,2018,Insurance/Annuity Products,8
+Loan or Finance Company,2018,Mutual Fund,1
+Loan or Finance Company,2018,Other,16333
+Loan or Finance Company,2018,Prepaid Access,2
+Loan or Finance Company,2018,Residential Mortgage,3484
+Loan or Finance Company,2018,"Swap, Hybrid, or Other Derivative",1
+Loan or Finance Company,2018,[Total],19920
+Money Services Business (MSB),2018,Bonds/Notes,7
+Money Services Business (MSB),2018,Commercial Paper,9
+Money Services Business (MSB),2018,Credit Card,37723
+Money Services Business (MSB),2018,Debit Card,92909
+Money Services Business (MSB),2018,Deposit Account,279
+Money Services Business (MSB),2018,Forex Transactions,614
+Money Services Business (MSB),2018,Hedge Fund,2
+Money Services Business (MSB),2018,Home Equity Loan,2
+Money Services Business (MSB),2018,Insurance/Annuity Products,26
+Money Services Business (MSB),2018,Microcap Securities,1
+Money Services Business (MSB),2018,Mutual Fund,6
+Money Services Business (MSB),2018,Options on Securities,2
+Money Services Business (MSB),2018,Other,37172
+Money Services Business (MSB),2018,Prepaid Access,49601
+Money Services Business (MSB),2018,Residential Mortgage,15
+Money Services Business (MSB),2018,Security Futures Products,2
+Money Services Business (MSB),2018,Stocks,4
+Money Services Business (MSB),2018,"Swap, Hybrid, or Other Derivative",10
+Money Services Business (MSB),2018,[Total],218384
+Other,2018,Bonds/Notes,835
+Other,2018,Commercial Mortgage,20
+Other,2018,Commercial Paper,29
+Other,2018,Credit Card,24693
+Other,2018,Debit Card,11915
+Other,2018,Deposit Account,3851
+Other,2018,Forex Transactions,130
+Other,2018,Futures/Options on Futures,9
+Other,2018,Hedge Fund,14
+Other,2018,Home Equity Line of Credit,578
+Other,2018,Home Equity Loan,92
+Other,2018,Insurance/Annuity Products,536
+Other,2018,Microcap Securities,111
+Other,2018,Mutual Fund,618
+Other,2018,Options on Securities,37
+Other,2018,Other,132537
+Other,2018,Prepaid Access,2834
+Other,2018,Residential Mortgage,12971
+Other,2018,Security Futures Products,17
+Other,2018,Stocks,449
+Other,2018,"Swap, Hybrid, or Other Derivative",12
+Other,2018,[Total],192288
+Securities/Futures,2018,Bonds/Notes,275
+Securities/Futures,2018,Commercial Mortgage,7
+Securities/Futures,2018,Commercial Paper,2
+Securities/Futures,2018,Credit Card,401
+Securities/Futures,2018,Debit Card,1232
+Securities/Futures,2018,Deposit Account,174
+Securities/Futures,2018,Forex Transactions,35
+Securities/Futures,2018,Futures/Options on Futures,61
+Securities/Futures,2018,Hedge Fund,35
+Securities/Futures,2018,Home Equity Line of Credit,11
+Securities/Futures,2018,Home Equity Loan,2
+Securities/Futures,2018,Insurance/Annuity Products,133
+Securities/Futures,2018,Microcap Securities,1869
+Securities/Futures,2018,Mutual Fund,1628
+Securities/Futures,2018,Options on Securities,382
+Securities/Futures,2018,Other,1405
+Securities/Futures,2018,Prepaid Access,213
+Securities/Futures,2018,Residential Mortgage,22
+Securities/Futures,2018,Security Futures Products,11
+Securities/Futures,2018,Stocks,4120
+Securities/Futures,2018,"Swap, Hybrid, or Other Derivative",13
+Securities/Futures,2018,[Total],12031
+Total SARS,2018,,982971
+Casino/Card Club - Card Club,2019,Credit Card,37
+Casino/Card Club - Card Club,2019,Debit Card,24
+Casino/Card Club - Card Club,2019,Deposit Account,2
+Casino/Card Club - Card Club,2019,Other,1
+Casino/Card Club - Card Club,2019,[Total],64
+Casino/Card Club - Other Casino/Card Club,2019,Credit Card,3
+Casino/Card Club - Other Casino/Card Club,2019,Debit Card,2
+Casino/Card Club - Other Casino/Card Club,2019,Deposit Account,1
+Casino/Card Club - Other Casino/Card Club,2019,Other,2
+Casino/Card Club - Other Casino/Card Club,2019,Residential Mortgage,1
+Casino/Card Club - Other Casino/Card Club,2019,[Total],9
+Casino/Card Club - State Licensed Casino,2019,Bonds/Notes,1
+Casino/Card Club - State Licensed Casino,2019,Commercial Paper,1
+Casino/Card Club - State Licensed Casino,2019,Credit Card,2021
+Casino/Card Club - State Licensed Casino,2019,Debit Card,465
+Casino/Card Club - State Licensed Casino,2019,Deposit Account,62
+Casino/Card Club - State Licensed Casino,2019,Forex Transactions,1
+Casino/Card Club - State Licensed Casino,2019,Mutual Fund,1
+Casino/Card Club - State Licensed Casino,2019,Other,184
+Casino/Card Club - State Licensed Casino,2019,Prepaid Access,4
+Casino/Card Club - State Licensed Casino,2019,Stocks,1
+Casino/Card Club - State Licensed Casino,2019,[Total],2741
+Casino/Card Club - Tribal Authorized Casino,2019,Bonds/Notes,4
+Casino/Card Club - Tribal Authorized Casino,2019,Commercial Mortgage,1
+Casino/Card Club - Tribal Authorized Casino,2019,Credit Card,306
+Casino/Card Club - Tribal Authorized Casino,2019,Debit Card,160
+Casino/Card Club - Tribal Authorized Casino,2019,Deposit Account,8
+Casino/Card Club - Tribal Authorized Casino,2019,Home Equity Loan,1
+Casino/Card Club - Tribal Authorized Casino,2019,Other,35
+Casino/Card Club - Tribal Authorized Casino,2019,Prepaid Access,2
+Casino/Card Club - Tribal Authorized Casino,2019,"Swap, Hybrid, or Other Derivative",2
+Casino/Card Club - Tribal Authorized Casino,2019,[Total],519
+Depository Institution,2019,Bonds/Notes,269
+Depository Institution,2019,Commercial Mortgage,580
+Depository Institution,2019,Commercial Paper,300
+Depository Institution,2019,Credit Card,172399
+Depository Institution,2019,Debit Card,190298
+Depository Institution,2019,Deposit Account,616379
+Depository Institution,2019,Forex Transactions,502
+Depository Institution,2019,Futures/Options on Futures,29
+Depository Institution,2019,Hedge Fund,51
+Depository Institution,2019,Home Equity Line of Credit,6310
+Depository Institution,2019,Home Equity Loan,1048
+Depository Institution,2019,Insurance/Annuity Products,282
+Depository Institution,2019,Microcap Securities,187
+Depository Institution,2019,Mutual Fund,158
+Depository Institution,2019,Options on Securities,72
+Depository Institution,2019,Other,76182
+Depository Institution,2019,Prepaid Access,12733
+Depository Institution,2019,Residential Mortgage,11359
+Depository Institution,2019,Security Futures Products,33
+Depository Institution,2019,Stocks,727
+Depository Institution,2019,"Swap, Hybrid, or Other Derivative",5
+Depository Institution,2019,[Total],1089903
+Housing Government Sponsored Enterprise GSE,2019,Bonds/Notes,1
+Housing Government Sponsored Enterprise GSE,2019,Commercial Mortgage,10
+Housing Government Sponsored Enterprise GSE,2019,Credit Card,4
+Housing Government Sponsored Enterprise GSE,2019,Debit Card,1
+Housing Government Sponsored Enterprise GSE,2019,Deposit Account,12
+Housing Government Sponsored Enterprise GSE,2019,Home Equity Line of Credit,1
+Housing Government Sponsored Enterprise GSE,2019,Home Equity Loan,2
+Housing Government Sponsored Enterprise GSE,2019,Insurance/Annuity Products,1
+Housing Government Sponsored Enterprise GSE,2019,Other,13
+Housing Government Sponsored Enterprise GSE,2019,Residential Mortgage,2096
+Housing Government Sponsored Enterprise GSE,2019,[Total],2141
+Insurance Company,2019,Commercial Mortgage,2
+Insurance Company,2019,Commercial Paper,1
+Insurance Company,2019,Credit Card,14
+Insurance Company,2019,Debit Card,6
+Insurance Company,2019,Deposit Account,12
+Insurance Company,2019,Futures/Options on Futures,1
+Insurance Company,2019,Hedge Fund,1
+Insurance Company,2019,Home Equity Line of Credit,1
+Insurance Company,2019,Home Equity Loan,1
+Insurance Company,2019,Insurance/Annuity Products,2074
+Insurance Company,2019,Mutual Fund,50
+Insurance Company,2019,Other,135
+Insurance Company,2019,Prepaid Access,3
+Insurance Company,2019,Residential Mortgage,1
+Insurance Company,2019,Stocks,10
+Insurance Company,2019,[Total],2312
+Loan or Finance Company,2019,Commercial Mortgage,18
+Loan or Finance Company,2019,Commercial Paper,4
+Loan or Finance Company,2019,Credit Card,8
+Loan or Finance Company,2019,Debit Card,11
+Loan or Finance Company,2019,Deposit Account,94
+Loan or Finance Company,2019,Home Equity Line of Credit,399
+Loan or Finance Company,2019,Home Equity Loan,26
+Loan or Finance Company,2019,Insurance/Annuity Products,3
+Loan or Finance Company,2019,Other,18672
+Loan or Finance Company,2019,Residential Mortgage,2601
+Loan or Finance Company,2019,[Total],21836
+Money Services Business (MSB),2019,Bonds/Notes,6
+Money Services Business (MSB),2019,Commercial Mortgage,2
+Money Services Business (MSB),2019,Commercial Paper,8
+Money Services Business (MSB),2019,Credit Card,27100
+Money Services Business (MSB),2019,Debit Card,75720
+Money Services Business (MSB),2019,Deposit Account,18345
+Money Services Business (MSB),2019,Forex Transactions,859
+Money Services Business (MSB),2019,Futures/Options on Futures,2
+Money Services Business (MSB),2019,Hedge Fund,1
+Money Services Business (MSB),2019,Home Equity Line of Credit,3
+Money Services Business (MSB),2019,Home Equity Loan,1
+Money Services Business (MSB),2019,Insurance/Annuity Products,4
+Money Services Business (MSB),2019,Mutual Fund,2
+Money Services Business (MSB),2019,Options on Securities,131
+Money Services Business (MSB),2019,Other,10866
+Money Services Business (MSB),2019,Prepaid Access,32338
+Money Services Business (MSB),2019,Residential Mortgage,7
+Money Services Business (MSB),2019,Security Futures Products,3
+Money Services Business (MSB),2019,Stocks,28
+Money Services Business (MSB),2019,"Swap, Hybrid, or Other Derivative",1
+Money Services Business (MSB),2019,[Total],165427
+Other,2019,Bonds/Notes,61
+Other,2019,Commercial Mortgage,9
+Other,2019,Commercial Paper,32
+Other,2019,Credit Card,18532
+Other,2019,Debit Card,18751
+Other,2019,Deposit Account,135881
+Other,2019,Forex Transactions,377
+Other,2019,Futures/Options on Futures,8
+Other,2019,Hedge Fund,33
+Other,2019,Home Equity Line of Credit,638
+Other,2019,Home Equity Loan,159
+Other,2019,Insurance/Annuity Products,38
+Other,2019,Microcap Securities,146
+Other,2019,Mutual Fund,654
+Other,2019,Options on Securities,45
+Other,2019,Other,11263
+Other,2019,Prepaid Access,3789
+Other,2019,Residential Mortgage,10952
+Other,2019,Security Futures Products,7
+Other,2019,Stocks,624
+Other,2019,"Swap, Hybrid, or Other Derivative",4
+Other,2019,[Total],202003
+Securities/Futures,2019,Bonds/Notes,283
+Securities/Futures,2019,Commercial Mortgage,1
+Securities/Futures,2019,Commercial Paper,2
+Securities/Futures,2019,Credit Card,127
+Securities/Futures,2019,Debit Card,1861
+Securities/Futures,2019,Deposit Account,2612
+Securities/Futures,2019,Forex Transactions,35
+Securities/Futures,2019,Futures/Options on Futures,145
+Securities/Futures,2019,Hedge Fund,25
+Securities/Futures,2019,Home Equity Line of Credit,9
+Securities/Futures,2019,Insurance/Annuity Products,162
+Securities/Futures,2019,Microcap Securities,2007
+Securities/Futures,2019,Mutual Fund,1186
+Securities/Futures,2019,Options on Securities,669
+Securities/Futures,2019,Other,1506
+Securities/Futures,2019,Prepaid Access,206
+Securities/Futures,2019,Residential Mortgage,14
+Securities/Futures,2019,Security Futures Products,35
+Securities/Futures,2019,Stocks,5403
+Securities/Futures,2019,"Swap, Hybrid, or Other Derivative",18
+Securities/Futures,2019,[Total],16306
+Total SARS,2019,,1503261
+Casino/Card Club - Card Club,2020,Credit Card,28
+Casino/Card Club - Card Club,2020,Debit Card,9
+Casino/Card Club - Card Club,2020,Deposit Account,2
+Casino/Card Club - Card Club,2020,Other,2
+Casino/Card Club - Card Club,2020,[Total],41
+Casino/Card Club - Other Casino/Card Club,2020,Credit Card,7
+Casino/Card Club - Other Casino/Card Club,2020,Debit Card,36
+Casino/Card Club - Other Casino/Card Club,2020,Deposit Account,48
+Casino/Card Club - Other Casino/Card Club,2020,Other,2
+Casino/Card Club - Other Casino/Card Club,2020,[Total],93
+Casino/Card Club - State Licensed Casino,2020,Bonds/Notes,1
+Casino/Card Club - State Licensed Casino,2020,Commercial Paper,2
+Casino/Card Club - State Licensed Casino,2020,Credit Card,1769
+Casino/Card Club - State Licensed Casino,2020,Debit Card,608
+Casino/Card Club - State Licensed Casino,2020,Deposit Account,77
+Casino/Card Club - State Licensed Casino,2020,Other,75
+Casino/Card Club - State Licensed Casino,2020,Prepaid Access,19
+Casino/Card Club - State Licensed Casino,2020,Residential Mortgage,1
+Casino/Card Club - State Licensed Casino,2020,Stocks,1
+Casino/Card Club - State Licensed Casino,2020,[Total],2553
+Casino/Card Club - Tribal Authorized Casino,2020,Bonds/Notes,3
+Casino/Card Club - Tribal Authorized Casino,2020,Commercial Paper,2
+Casino/Card Club - Tribal Authorized Casino,2020,Credit Card,633
+Casino/Card Club - Tribal Authorized Casino,2020,Debit Card,369
+Casino/Card Club - Tribal Authorized Casino,2020,Deposit Account,5
+Casino/Card Club - Tribal Authorized Casino,2020,Insurance/Annuity Products,1
+Casino/Card Club - Tribal Authorized Casino,2020,Other,32
+Casino/Card Club - Tribal Authorized Casino,2020,Prepaid Access,1
+Casino/Card Club - Tribal Authorized Casino,2020,"Swap, Hybrid, or Other Derivative",5
+Casino/Card Club - Tribal Authorized Casino,2020,[Total],1051
+Depository Institution,2020,Bonds/Notes,265
+Depository Institution,2020,Commercial Mortgage,438
+Depository Institution,2020,Commercial Paper,386
+Depository Institution,2020,Credit Card,124131
+Depository Institution,2020,Debit Card,264503
+Depository Institution,2020,Deposit Account,807016
+Depository Institution,2020,Forex Transactions,537
+Depository Institution,2020,Futures/Options on Futures,20
+Depository Institution,2020,Hedge Fund,47
+Depository Institution,2020,Home Equity Line of Credit,5413
+Depository Institution,2020,Home Equity Loan,749
+Depository Institution,2020,Insurance/Annuity Products,204
+Depository Institution,2020,Microcap Securities,188
+Depository Institution,2020,Mutual Fund,395
+Depository Institution,2020,Options on Securities,132
+Depository Institution,2020,Other,72793
+Depository Institution,2020,Prepaid Access,16333
+Depository Institution,2020,Residential Mortgage,10205
+Depository Institution,2020,Security Futures Products,29
+Depository Institution,2020,Stocks,828
+Depository Institution,2020,"Swap, Hybrid, or Other Derivative",10
+Depository Institution,2020,[Total],1304622
+Housing Government Sponsored Enterprise GSE,2020,Commercial Mortgage,17
+Housing Government Sponsored Enterprise GSE,2020,Credit Card,2
+Housing Government Sponsored Enterprise GSE,2020,Deposit Account,7
+Housing Government Sponsored Enterprise GSE,2020,Home Equity Line of Credit,6
+Housing Government Sponsored Enterprise GSE,2020,Home Equity Loan,1
+Housing Government Sponsored Enterprise GSE,2020,Other,17
+Housing Government Sponsored Enterprise GSE,2020,Prepaid Access,1
+Housing Government Sponsored Enterprise GSE,2020,Residential Mortgage,2998
+Housing Government Sponsored Enterprise GSE,2020,[Total],3049
+Insurance Company,2020,Credit Card,18
+Insurance Company,2020,Debit Card,5
+Insurance Company,2020,Deposit Account,24
+Insurance Company,2020,Forex Transactions,1
+Insurance Company,2020,Insurance/Annuity Products,2010
+Insurance Company,2020,Mutual Fund,42
+Insurance Company,2020,Other,118
+Insurance Company,2020,Prepaid Access,4
+Insurance Company,2020,Security Futures Products,1
+Insurance Company,2020,Stocks,8
+Insurance Company,2020,"Swap, Hybrid, or Other Derivative",1
+Insurance Company,2020,[Total],2232
+Loan or Finance Company,2020,Bonds/Notes,2
+Loan or Finance Company,2020,Commercial Mortgage,14
+Loan or Finance Company,2020,Credit Card,3
+Loan or Finance Company,2020,Debit Card,20
+Loan or Finance Company,2020,Deposit Account,137
+Loan or Finance Company,2020,Forex Transactions,1
+Loan or Finance Company,2020,Home Equity Line of Credit,30
+Loan or Finance Company,2020,Home Equity Loan,7
+Loan or Finance Company,2020,Insurance/Annuity Products,7
+Loan or Finance Company,2020,Other,17123
+Loan or Finance Company,2020,Prepaid Access,2
+Loan or Finance Company,2020,Residential Mortgage,5370
+Loan or Finance Company,2020,Stocks,1
+Loan or Finance Company,2020,[Total],22717
+Money Services Business (MSB),2020,Bonds/Notes,7
+Money Services Business (MSB),2020,Commercial Mortgage,1
+Money Services Business (MSB),2020,Commercial Paper,3
+Money Services Business (MSB),2020,Credit Card,29971
+Money Services Business (MSB),2020,Debit Card,149713
+Money Services Business (MSB),2020,Deposit Account,21100
+Money Services Business (MSB),2020,Forex Transactions,1214
+Money Services Business (MSB),2020,Futures/Options on Futures,2
+Money Services Business (MSB),2020,Hedge Fund,1
+Money Services Business (MSB),2020,Insurance/Annuity Products,10
+Money Services Business (MSB),2020,Microcap Securities,1
+Money Services Business (MSB),2020,Mutual Fund,2
+Money Services Business (MSB),2020,Options on Securities,76
+Money Services Business (MSB),2020,Other,24424
+Money Services Business (MSB),2020,Prepaid Access,43941
+Money Services Business (MSB),2020,Residential Mortgage,9
+Money Services Business (MSB),2020,Security Futures Products,2
+Money Services Business (MSB),2020,Stocks,5
+Money Services Business (MSB),2020,"Swap, Hybrid, or Other Derivative",21
+Money Services Business (MSB),2020,[Total],270503
+Other,2020,Bonds/Notes,60
+Other,2020,Commercial Mortgage,9
+Other,2020,Commercial Paper,39
+Other,2020,Credit Card,15366
+Other,2020,Debit Card,36284
+Other,2020,Deposit Account,187613
+Other,2020,Forex Transactions,335
+Other,2020,Futures/Options on Futures,1
+Other,2020,Hedge Fund,13
+Other,2020,Home Equity Line of Credit,670
+Other,2020,Home Equity Loan,115
+Other,2020,Insurance/Annuity Products,39
+Other,2020,Microcap Securities,112
+Other,2020,Mutual Fund,612
+Other,2020,Options on Securities,59
+Other,2020,Other,13073
+Other,2020,Prepaid Access,3714
+Other,2020,Residential Mortgage,11143
+Other,2020,Security Futures Products,10
+Other,2020,Stocks,1115
+Other,2020,"Swap, Hybrid, or Other Derivative",2
+Other,2020,[Total],270384
+Securities/Futures,2020,Bonds/Notes,236
+Securities/Futures,2020,Commercial Mortgage,2
+Securities/Futures,2020,Commercial Paper,3
+Securities/Futures,2020,Credit Card,132
+Securities/Futures,2020,Debit Card,2816
+Securities/Futures,2020,Deposit Account,4820
+Securities/Futures,2020,Forex Transactions,37
+Securities/Futures,2020,Futures/Options on Futures,141
+Securities/Futures,2020,Hedge Fund,27
+Securities/Futures,2020,Home Equity Line of Credit,9
+Securities/Futures,2020,Home Equity Loan,1
+Securities/Futures,2020,Insurance/Annuity Products,117
+Securities/Futures,2020,Microcap Securities,2986
+Securities/Futures,2020,Mutual Fund,1366
+Securities/Futures,2020,Options on Securities,1126
+Securities/Futures,2020,Other,2000
+Securities/Futures,2020,Prepaid Access,274
+Securities/Futures,2020,Residential Mortgage,22
+Securities/Futures,2020,Security Futures Products,47
+Securities/Futures,2020,Stocks,9858
+Securities/Futures,2020,"Swap, Hybrid, or Other Derivative",17
+Securities/Futures,2020,[Total],26037
+Total SARS,2020,,1903282
+Casino/Card Club - Card Club,2021,Credit Card,35
+Casino/Card Club - Card Club,2021,Debit Card,8
+Casino/Card Club - Card Club,2021,Deposit Account,1
+Casino/Card Club - Card Club,2021,[Total],44
+Casino/Card Club - Other Casino/Card Club,2021,Credit Card,16
+Casino/Card Club - Other Casino/Card Club,2021,Debit Card,10
+Casino/Card Club - Other Casino/Card Club,2021,Deposit Account,5
+Casino/Card Club - Other Casino/Card Club,2021,Other,3
+Casino/Card Club - Other Casino/Card Club,2021,Prepaid Access,3
+Casino/Card Club - Other Casino/Card Club,2021,[Total],37
+Casino/Card Club - State Licensed Casino,2021,Commercial Paper,2
+Casino/Card Club - State Licensed Casino,2021,Credit Card,2481
+Casino/Card Club - State Licensed Casino,2021,Debit Card,657
+Casino/Card Club - State Licensed Casino,2021,Deposit Account,354
+Casino/Card Club - State Licensed Casino,2021,Other,113
+Casino/Card Club - State Licensed Casino,2021,Prepaid Access,19
+Casino/Card Club - State Licensed Casino,2021,Residential Mortgage,1
+Casino/Card Club - State Licensed Casino,2021,"Swap, Hybrid, or Other Derivative",1
+Casino/Card Club - State Licensed Casino,2021,[Total],3628
+Casino/Card Club - Tribal Authorized Casino,2021,Bonds/Notes,3
+Casino/Card Club - Tribal Authorized Casino,2021,Credit Card,409
+Casino/Card Club - Tribal Authorized Casino,2021,Debit Card,299
+Casino/Card Club - Tribal Authorized Casino,2021,Deposit Account,32
+Casino/Card Club - Tribal Authorized Casino,2021,Other,35
+Casino/Card Club - Tribal Authorized Casino,2021,[Total],778
+Depository Institution,2021,Bonds/Notes,288
+Depository Institution,2021,Commercial Mortgage,449
+Depository Institution,2021,Commercial Paper,420
+Depository Institution,2021,Credit Card,109972
+Depository Institution,2021,Debit Card,369294
+Depository Institution,2021,Deposit Account,1017853
+Depository Institution,2021,Forex Transactions,754
+Depository Institution,2021,Futures/Options on Futures,21
+Depository Institution,2021,Hedge Fund,103
+Depository Institution,2021,Home Equity Line of Credit,5354
+Depository Institution,2021,Home Equity Loan,786
+Depository Institution,2021,Insurance/Annuity Products,162
+Depository Institution,2021,Microcap Securities,200
+Depository Institution,2021,Mutual Fund,496
+Depository Institution,2021,Options on Securities,117
+Depository Institution,2021,Other,101414
+Depository Institution,2021,Prepaid Access,28796
+Depository Institution,2021,Residential Mortgage,8252
+Depository Institution,2021,Security Futures Products,36
+Depository Institution,2021,Stocks,1318
+Depository Institution,2021,"Swap, Hybrid, or Other Derivative",22
+Depository Institution,2021,[Total],1646107
+Housing Government Sponsored Enterprise GSE,2021,Commercial Mortgage,19
+Housing Government Sponsored Enterprise GSE,2021,Credit Card,1
+Housing Government Sponsored Enterprise GSE,2021,Deposit Account,7
+Housing Government Sponsored Enterprise GSE,2021,Home Equity Line of Credit,1
+Housing Government Sponsored Enterprise GSE,2021,Home Equity Loan,1
+Housing Government Sponsored Enterprise GSE,2021,Other,12
+Housing Government Sponsored Enterprise GSE,2021,Residential Mortgage,5009
+Housing Government Sponsored Enterprise GSE,2021,[Total],5050
+Insurance Company,2021,Commercial Mortgage,2
+Insurance Company,2021,Commercial Paper,1
+Insurance Company,2021,Credit Card,20
+Insurance Company,2021,Debit Card,2
+Insurance Company,2021,Deposit Account,94
+Insurance Company,2021,Insurance/Annuity Products,2011
+Insurance Company,2021,Mutual Fund,34
+Insurance Company,2021,Other,118
+Insurance Company,2021,Prepaid Access,2
+Insurance Company,2021,Residential Mortgage,2
+Insurance Company,2021,Security Futures Products,4
+Insurance Company,2021,Stocks,5
+Insurance Company,2021,[Total],2295
+Loan or Finance Company,2021,Bonds/Notes,18
+Loan or Finance Company,2021,Commercial Mortgage,9
+Loan or Finance Company,2021,Credit Card,17
+Loan or Finance Company,2021,Debit Card,143
+Loan or Finance Company,2021,Deposit Account,1625
+Loan or Finance Company,2021,Hedge Fund,1
+Loan or Finance Company,2021,Home Equity Line of Credit,366
+Loan or Finance Company,2021,Home Equity Loan,21
+Loan or Finance Company,2021,Insurance/Annuity Products,6
+Loan or Finance Company,2021,Mutual Fund,2
+Loan or Finance Company,2021,Other,26355
+Loan or Finance Company,2021,Prepaid Access,1
+Loan or Finance Company,2021,Residential Mortgage,7917
+Loan or Finance Company,2021,Stocks,1
+Loan or Finance Company,2021,[Total],36482
+Money Services Business (MSB),2021,Bonds/Notes,8
+Money Services Business (MSB),2021,Commercial Mortgage,3
+Money Services Business (MSB),2021,Commercial Paper,9
+Money Services Business (MSB),2021,Credit Card,38249
+Money Services Business (MSB),2021,Debit Card,279869
+Money Services Business (MSB),2021,Deposit Account,21087
+Money Services Business (MSB),2021,Forex Transactions,1098
+Money Services Business (MSB),2021,Hedge Fund,2
+Money Services Business (MSB),2021,Home Equity Line of Credit,1
+Money Services Business (MSB),2021,Insurance/Annuity Products,28
+Money Services Business (MSB),2021,Microcap Securities,3
+Money Services Business (MSB),2021,Mutual Fund,3
+Money Services Business (MSB),2021,Options on Securities,23
+Money Services Business (MSB),2021,Other,53703
+Money Services Business (MSB),2021,Prepaid Access,58964
+Money Services Business (MSB),2021,Residential Mortgage,9
+Money Services Business (MSB),2021,Security Futures Products,5
+Money Services Business (MSB),2021,Stocks,138
+Money Services Business (MSB),2021,"Swap, Hybrid, or Other Derivative",106
+Money Services Business (MSB),2021,[Total],453308
+Other,2021,Bonds/Notes,48
+Other,2021,Commercial Mortgage,12
+Other,2021,Commercial Paper,11
+Other,2021,Credit Card,20561
+Other,2021,Debit Card,52516
+Other,2021,Deposit Account,246206
+Other,2021,Forex Transactions,471
+Other,2021,Futures/Options on Futures,15
+Other,2021,Hedge Fund,6
+Other,2021,Home Equity Line of Credit,756
+Other,2021,Home Equity Loan,128
+Other,2021,Insurance/Annuity Products,40
+Other,2021,Microcap Securities,188
+Other,2021,Mutual Fund,475
+Other,2021,Options on Securities,70
+Other,2021,Other,15650
+Other,2021,Prepaid Access,2043
+Other,2021,Residential Mortgage,10272
+Other,2021,Security Futures Products,11
+Other,2021,Stocks,2010
+Other,2021,"Swap, Hybrid, or Other Derivative",16
+Other,2021,[Total],351505
+Securities/Futures,2021,Bonds/Notes,196
+Securities/Futures,2021,Commercial Mortgage,5
+Securities/Futures,2021,Commercial Paper,4
+Securities/Futures,2021,Credit Card,87
+Securities/Futures,2021,Debit Card,10161
+Securities/Futures,2021,Deposit Account,7458
+Securities/Futures,2021,Forex Transactions,62
+Securities/Futures,2021,Futures/Options on Futures,124
+Securities/Futures,2021,Hedge Fund,21
+Securities/Futures,2021,Home Equity Line of Credit,2
+Securities/Futures,2021,Insurance/Annuity Products,104
+Securities/Futures,2021,Microcap Securities,3228
+Securities/Futures,2021,Mutual Fund,1235
+Securities/Futures,2021,Options on Securities,2376
+Securities/Futures,2021,Other,3515
+Securities/Futures,2021,Prepaid Access,426
+Securities/Futures,2021,Residential Mortgage,12
+Securities/Futures,2021,Security Futures Products,60
+Securities/Futures,2021,Stocks,18341
+Securities/Futures,2021,"Swap, Hybrid, or Other Derivative",33
+Securities/Futures,2021,[Total],47450
+Total SARS,2021,,2546684
+Casino/Card Club - Card Club,2022,Credit Card,67
+Casino/Card Club - Card Club,2022,Debit Card,49
+Casino/Card Club - Card Club,2022,Deposit Account,2
+Casino/Card Club - Card Club,2022,Other,2
+Casino/Card Club - Card Club,2022,[Total],120
+Casino/Card Club - Other Casino/Card Club,2022,Credit Card,21
+Casino/Card Club - Other Casino/Card Club,2022,Debit Card,11
+Casino/Card Club - Other Casino/Card Club,2022,Deposit Account,4
+Casino/Card Club - Other Casino/Card Club,2022,Other,1
+Casino/Card Club - Other Casino/Card Club,2022,Prepaid Access,2
+Casino/Card Club - Other Casino/Card Club,2022,[Total],39
+Casino/Card Club - State Licensed Casino,2022,Bonds/Notes,2
+Casino/Card Club - State Licensed Casino,2022,Credit Card,3928
+Casino/Card Club - State Licensed Casino,2022,Debit Card,1876
+Casino/Card Club - State Licensed Casino,2022,Deposit Account,899
+Casino/Card Club - State Licensed Casino,2022,Other,169
+Casino/Card Club - State Licensed Casino,2022,Prepaid Access,31
+Casino/Card Club - State Licensed Casino,2022,Security Futures Products,1
+Casino/Card Club - State Licensed Casino,2022,[Total],6906
+Casino/Card Club - Tribal Authorized Casino,2022,Bonds/Notes,1
+Casino/Card Club - Tribal Authorized Casino,2022,Credit Card,530
+Casino/Card Club - Tribal Authorized Casino,2022,Debit Card,552
+Casino/Card Club - Tribal Authorized Casino,2022,Deposit Account,71
+Casino/Card Club - Tribal Authorized Casino,2022,Forex Transactions,1
+Casino/Card Club - Tribal Authorized Casino,2022,Other,27
+Casino/Card Club - Tribal Authorized Casino,2022,Prepaid Access,9
+Casino/Card Club - Tribal Authorized Casino,2022,"Swap, Hybrid, or Other Derivative",2
+Casino/Card Club - Tribal Authorized Casino,2022,[Total],1193
+Depository Institution,2022,Bonds/Notes,431
+Depository Institution,2022,Commercial Mortgage,508
+Depository Institution,2022,Commercial Paper,383
+Depository Institution,2022,Credit Card,224083
+Depository Institution,2022,Debit Card,471557
+Depository Institution,2022,Deposit Account,1332740
+Depository Institution,2022,Forex Transactions,706
+Depository Institution,2022,Futures/Options on Futures,14
+Depository Institution,2022,Hedge Fund,117
+Depository Institution,2022,Home Equity Line of Credit,7793
+Depository Institution,2022,Home Equity Loan,880
+Depository Institution,2022,Insurance/Annuity Products,231
+Depository Institution,2022,Microcap Securities,116
+Depository Institution,2022,Mutual Fund,721
+Depository Institution,2022,Options on Securities,33
+Depository Institution,2022,Other,124144
+Depository Institution,2022,Prepaid Access,23156
+Depository Institution,2022,Residential Mortgage,8368
+Depository Institution,2022,Security Futures Products,37
+Depository Institution,2022,Stocks,565
+Depository Institution,2022,"Swap, Hybrid, or Other Derivative",14
+Depository Institution,2022,[Total],2196597
+Housing Government Sponsored Enterprise GSE,2022,Commercial Mortgage,28
+Housing Government Sponsored Enterprise GSE,2022,Deposit Account,4
+Housing Government Sponsored Enterprise GSE,2022,Home Equity Line of Credit,2
+Housing Government Sponsored Enterprise GSE,2022,Home Equity Loan,2
+Housing Government Sponsored Enterprise GSE,2022,Other,12
+Housing Government Sponsored Enterprise GSE,2022,Residential Mortgage,7768
+Housing Government Sponsored Enterprise GSE,2022,[Total],7816
+Insurance Company,2022,Credit Card,39
+Insurance Company,2022,Debit Card,20
+Insurance Company,2022,Deposit Account,106
+Insurance Company,2022,Home Equity Loan,1
+Insurance Company,2022,Insurance/Annuity Products,1950
+Insurance Company,2022,Mutual Fund,44
+Insurance Company,2022,Other,206
+Insurance Company,2022,Prepaid Access,1
+Insurance Company,2022,Security Futures Products,2
+Insurance Company,2022,Stocks,12
+Insurance Company,2022,[Total],2381
+Loan or Finance Company,2022,Bonds/Notes,1550
+Loan or Finance Company,2022,Commercial Mortgage,10
+Loan or Finance Company,2022,Commercial Paper,1
+Loan or Finance Company,2022,Credit Card,118
+Loan or Finance Company,2022,Debit Card,313
+Loan or Finance Company,2022,Deposit Account,5211
+Loan or Finance Company,2022,Forex Transactions,1
+Loan or Finance Company,2022,Home Equity Line of Credit,370
+Loan or Finance Company,2022,Home Equity Loan,60
+Loan or Finance Company,2022,Insurance/Annuity Products,8
+Loan or Finance Company,2022,Mutual Fund,1
+Loan or Finance Company,2022,Other,34570
+Loan or Finance Company,2022,Prepaid Access,7
+Loan or Finance Company,2022,Residential Mortgage,10712
+Loan or Finance Company,2022,Security Futures Products,13
+Loan or Finance Company,2022,Stocks,73
+Loan or Finance Company,2022,[Total],53018
+Money Services Business (MSB),2022,Bonds/Notes,2
+Money Services Business (MSB),2022,Commercial Mortgage,4
+Money Services Business (MSB),2022,Commercial Paper,35
+Money Services Business (MSB),2022,Credit Card,46625
+Money Services Business (MSB),2022,Debit Card,207723
+Money Services Business (MSB),2022,Deposit Account,44088
+Money Services Business (MSB),2022,Forex Transactions,1042
+Money Services Business (MSB),2022,Hedge Fund,1
+Money Services Business (MSB),2022,Home Equity Line of Credit,2
+Money Services Business (MSB),2022,Home Equity Loan,3
+Money Services Business (MSB),2022,Insurance/Annuity Products,34
+Money Services Business (MSB),2022,Microcap Securities,2
+Money Services Business (MSB),2022,Mutual Fund,7
+Money Services Business (MSB),2022,Options on Securities,2
+Money Services Business (MSB),2022,Other,81872
+Money Services Business (MSB),2022,Prepaid Access,234217
+Money Services Business (MSB),2022,Residential Mortgage,5
+Money Services Business (MSB),2022,Security Futures Products,2
+Money Services Business (MSB),2022,Stocks,98
+Money Services Business (MSB),2022,"Swap, Hybrid, or Other Derivative",90
+Money Services Business (MSB),2022,[Total],615854
+Other,2022,Bonds/Notes,72
+Other,2022,Commercial Mortgage,8
+Other,2022,Commercial Paper,7
+Other,2022,Credit Card,17110
+Other,2022,Debit Card,69081
+Other,2022,Deposit Account,318180
+Other,2022,Forex Transactions,853
+Other,2022,Futures/Options on Futures,3
+Other,2022,Hedge Fund,11
+Other,2022,Home Equity Line of Credit,940
+Other,2022,Home Equity Loan,137
+Other,2022,Insurance/Annuity Products,35
+Other,2022,Microcap Securities,154
+Other,2022,Mutual Fund,482
+Other,2022,Options on Securities,79
+Other,2022,Other,20971
+Other,2022,Prepaid Access,1641
+Other,2022,Residential Mortgage,9055
+Other,2022,Security Futures Products,8
+Other,2022,Stocks,1692
+Other,2022,"Swap, Hybrid, or Other Derivative",4
+Other,2022,[Total],440523
+Securities/Futures,2022,Bonds/Notes,192
+Securities/Futures,2022,Commercial Mortgage,2
+Securities/Futures,2022,Credit Card,213
+Securities/Futures,2022,Debit Card,9776
+Securities/Futures,2022,Deposit Account,8214
+Securities/Futures,2022,Forex Transactions,102
+Securities/Futures,2022,Futures/Options on Futures,137
+Securities/Futures,2022,Hedge Fund,15
+Securities/Futures,2022,Home Equity Line of Credit,8
+Securities/Futures,2022,Home Equity Loan,1
+Securities/Futures,2022,Insurance/Annuity Products,74
+Securities/Futures,2022,Microcap Securities,2445
+Securities/Futures,2022,Mutual Fund,2441
+Securities/Futures,2022,Options on Securities,2041
+Securities/Futures,2022,Other,5344
+Securities/Futures,2022,Prepaid Access,545
+Securities/Futures,2022,Residential Mortgage,12
+Securities/Futures,2022,Security Futures Products,55
+Securities/Futures,2022,Stocks,14536
+Securities/Futures,2022,"Swap, Hybrid, or Other Derivative",24
+Securities/Futures,2022,[Total],46177
+Total SARS,2022,,3370624
+Casino/Card Club - Card Club,2023,Credit Card,79
+Casino/Card Club - Card Club,2023,Debit Card,66
+Casino/Card Club - Card Club,2023,Other,4
+Casino/Card Club - Card Club,2023,[Total],149
+Casino/Card Club - Other Casino/Card Club,2023,Credit Card,114
+Casino/Card Club - Other Casino/Card Club,2023,Debit Card,75
+Casino/Card Club - Other Casino/Card Club,2023,Deposit Account,51
+Casino/Card Club - Other Casino/Card Club,2023,Other,23
+Casino/Card Club - Other Casino/Card Club,2023,Prepaid Access,10
+Casino/Card Club - Other Casino/Card Club,2023,[Total],273
+Casino/Card Club - State Licensed Casino,2023,Bonds/Notes,2
+Casino/Card Club - State Licensed Casino,2023,Credit Card,3767
+Casino/Card Club - State Licensed Casino,2023,Debit Card,2475
+Casino/Card Club - State Licensed Casino,2023,Deposit Account,1721
+Casino/Card Club - State Licensed Casino,2023,Other,441
+Casino/Card Club - State Licensed Casino,2023,Prepaid Access,103
+Casino/Card Club - State Licensed Casino,2023,[Total],8509
+Casino/Card Club - Tribal Authorized Casino,2023,Bonds/Notes,2
+Casino/Card Club - Tribal Authorized Casino,2023,Credit Card,850
+Casino/Card Club - Tribal Authorized Casino,2023,Debit Card,788
+Casino/Card Club - Tribal Authorized Casino,2023,Deposit Account,62
+Casino/Card Club - Tribal Authorized Casino,2023,Other,37
+Casino/Card Club - Tribal Authorized Casino,2023,"Swap, Hybrid, or Other Derivative",2
+Casino/Card Club - Tribal Authorized Casino,2023,[Total],1741
+Depository Institution,2023,Bonds/Notes,486
+Depository Institution,2023,Commercial Mortgage,562
+Depository Institution,2023,Commercial Paper,322
+Depository Institution,2023,Credit Card,249940
+Depository Institution,2023,Debit Card,524182
+Depository Institution,2023,Deposit Account,1483857
+Depository Institution,2023,Forex Transactions,616
+Depository Institution,2023,Futures/Options on Futures,22
+Depository Institution,2023,Hedge Fund,143
+Depository Institution,2023,Home Equity Line of Credit,10017
+Depository Institution,2023,Home Equity Loan,1183
+Depository Institution,2023,Insurance/Annuity Products,262
+Depository Institution,2023,Microcap Securities,140
+Depository Institution,2023,Mutual Fund,711
+Depository Institution,2023,Options on Securities,42
+Depository Institution,2023,Other,152288
+Depository Institution,2023,Prepaid Access,33419
+Depository Institution,2023,Residential Mortgage,7783
+Depository Institution,2023,Security Futures Products,46
+Depository Institution,2023,Stocks,786
+Depository Institution,2023,"Swap, Hybrid, or Other Derivative",15
+Depository Institution,2023,[Total],2466822
+Housing Government Sponsored Enterprise GSE,2023,Commercial Mortgage,65
+Housing Government Sponsored Enterprise GSE,2023,Credit Card,11
+Housing Government Sponsored Enterprise GSE,2023,Debit Card,1
+Housing Government Sponsored Enterprise GSE,2023,Deposit Account,25
+Housing Government Sponsored Enterprise GSE,2023,Home Equity Line of Credit,4
+Housing Government Sponsored Enterprise GSE,2023,Home Equity Loan,1
+Housing Government Sponsored Enterprise GSE,2023,Insurance/Annuity Products,1
+Housing Government Sponsored Enterprise GSE,2023,Other,12
+Housing Government Sponsored Enterprise GSE,2023,Prepaid Access,1
+Housing Government Sponsored Enterprise GSE,2023,Residential Mortgage,8752
+Housing Government Sponsored Enterprise GSE,2023,[Total],8873
+Insurance Company,2023,Credit Card,18
+Insurance Company,2023,Debit Card,6
+Insurance Company,2023,Deposit Account,127
+Insurance Company,2023,Insurance/Annuity Products,1993
+Insurance Company,2023,Microcap Securities,3
+Insurance Company,2023,Mutual Fund,46
+Insurance Company,2023,Other,301
+Insurance Company,2023,Residential Mortgage,2
+Insurance Company,2023,Security Futures Products,1
+Insurance Company,2023,Stocks,14
+Insurance Company,2023,[Total],2511
+Loan or Finance Company,2023,Bonds/Notes,10506
+Loan or Finance Company,2023,Commercial Mortgage,12
+Loan or Finance Company,2023,Commercial Paper,2
+Loan or Finance Company,2023,Credit Card,616
+Loan or Finance Company,2023,Debit Card,136
+Loan or Finance Company,2023,Deposit Account,20969
+Loan or Finance Company,2023,Forex Transactions,2
+Loan or Finance Company,2023,Futures/Options on Futures,1
+Loan or Finance Company,2023,Home Equity Line of Credit,336
+Loan or Finance Company,2023,Home Equity Loan,163
+Loan or Finance Company,2023,Insurance/Annuity Products,1
+Loan or Finance Company,2023,Options on Securities,5
+Loan or Finance Company,2023,Other,45139
+Loan or Finance Company,2023,Prepaid Access,10
+Loan or Finance Company,2023,Residential Mortgage,9377
+Loan or Finance Company,2023,Security Futures Products,5
+Loan or Finance Company,2023,Stocks,203
+Loan or Finance Company,2023,[Total],87483
+Money Services Business (MSB),2023,Bonds/Notes,19
+Money Services Business (MSB),2023,Commercial Mortgage,3
+Money Services Business (MSB),2023,Commercial Paper,41
+Money Services Business (MSB),2023,Credit Card,59244
+Money Services Business (MSB),2023,Debit Card,229850
+Money Services Business (MSB),2023,Deposit Account,46833
+Money Services Business (MSB),2023,Forex Transactions,1326
+Money Services Business (MSB),2023,Futures/Options on Futures,2
+Money Services Business (MSB),2023,Hedge Fund,1
+Money Services Business (MSB),2023,Home Equity Line of Credit,5
+Money Services Business (MSB),2023,Home Equity Loan,4
+Money Services Business (MSB),2023,Insurance/Annuity Products,2
+Money Services Business (MSB),2023,Microcap Securities,1
+Money Services Business (MSB),2023,Mutual Fund,7
+Money Services Business (MSB),2023,Options on Securities,45
+Money Services Business (MSB),2023,Other,130967
+Money Services Business (MSB),2023,Prepaid Access,382112
+Money Services Business (MSB),2023,Residential Mortgage,6
+Money Services Business (MSB),2023,Security Futures Products,1
+Money Services Business (MSB),2023,Stocks,539
+Money Services Business (MSB),2023,"Swap, Hybrid, or Other Derivative",5
+Money Services Business (MSB),2023,[Total],851013
+Other,2023,Bonds/Notes,614
+Other,2023,Commercial Mortgage,17
+Other,2023,Commercial Paper,19
+Other,2023,Credit Card,18595
+Other,2023,Debit Card,61533
+Other,2023,Deposit Account,276017
+Other,2023,Forex Transactions,820
+Other,2023,Futures/Options on Futures,13
+Other,2023,Hedge Fund,8
+Other,2023,Home Equity Line of Credit,1080
+Other,2023,Home Equity Loan,151
+Other,2023,Insurance/Annuity Products,45
+Other,2023,Microcap Securities,131
+Other,2023,Mutual Fund,661
+Other,2023,Options on Securities,158
+Other,2023,Other,31253
+Other,2023,Prepaid Access,1377
+Other,2023,Residential Mortgage,7350
+Other,2023,Security Futures Products,19
+Other,2023,Stocks,1598
+Other,2023,"Swap, Hybrid, or Other Derivative",8
+Other,2023,[Total],401467
+Securities/Futures,2023,Bonds/Notes,227
+Securities/Futures,2023,Commercial Mortgage,3
+Securities/Futures,2023,Commercial Paper,4
+Securities/Futures,2023,Credit Card,69
+Securities/Futures,2023,Debit Card,6719
+Securities/Futures,2023,Deposit Account,8466
+Securities/Futures,2023,Forex Transactions,421
+Securities/Futures,2023,Futures/Options on Futures,116
+Securities/Futures,2023,Hedge Fund,19
+Securities/Futures,2023,Home Equity Line of Credit,2
+Securities/Futures,2023,Home Equity Loan,3
+Securities/Futures,2023,Insurance/Annuity Products,102
+Securities/Futures,2023,Microcap Securities,2246
+Securities/Futures,2023,Mutual Fund,2227
+Securities/Futures,2023,Options on Securities,1395
+Securities/Futures,2023,Other,3448
+Securities/Futures,2023,Prepaid Access,967
+Securities/Futures,2023,Residential Mortgage,4
+Securities/Futures,2023,Security Futures Products,28
+Securities/Futures,2023,Stocks,11279
+Securities/Futures,2023,"Swap, Hybrid, or Other Derivative",31
+Securities/Futures,2023,[Total],37776
+Total SARS,2023,,3866617
