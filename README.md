@@ -1,3 +1,5 @@
+https://sarfilingdata.streamlit.app/
+
 With the soaring rates of fraud and money laundering in the banking industry, Suspicious Activity Reports (SARs) are increasing in the industry at a very fast pace causing banks to face new and difficult regulatory, supervisory, and compliance challenges.  
 
 Along with those challenges, there has been a significant increase in BSA/AML enforcement activity by the Federal Banking Agencies (FBAs) and the Financial Crimes Enforcement Network (FinCEN).  
