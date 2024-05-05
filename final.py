@@ -19,7 +19,7 @@ def load_data(csv):
 sar_data = load_data("SAR_stats_ALL.csv")
 sar_state_data = load_data("SARS_stats_state.csv") 
 
-    # Define your page functions here
+    # define page functions 
 def page1():
     st.write('With the soaring rates of fraud and money laundering in the banking industry, Suspicious Activity Reports (SARs) are increasing in the industry '
              'at a very fast pace, causing banks to face new and difficult regulatory, supervisory, and compliance challenges. Along with those challenges, '
