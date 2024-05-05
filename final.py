@@ -78,5 +78,5 @@ pages = {
 }
 
 # create tabs for the pages using a for loop and the pages dictionary
-selected_page = st.selectbox("Select a page", list(pages.keys()))
+selected_page = st.selectbox("Select an Option", list(pages.keys()))
 pages[selected_page]()
