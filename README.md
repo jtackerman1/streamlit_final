@@ -9,11 +9,14 @@ Highlighting this renewed emphasis, in August 2014, FinCEN issued an advisory em
 (1)	See Financial Crimes Enforcement Network, FIN-2014-A007
 SAR Industries
 
-•	Casino	•	Loan
-•	Deposit Institution	•	Money Services
+•	Casino	
+•	Loan
+•	Deposit Institution	
+•	Money Services
 •	Housing – Gov. Sponsored Enterprise
-	•	Securities
-•	Insurance	•	Other
+•	Securities
+•	Insurance	
+•	Other
 
 
 All of the major industries of SARs are trending upwards over the last ten years. With the intense scrutiny and regulatory requirements around SAR documentation and certification, many human hours are spent assessing and reviewing SARs and associated documentation. 
