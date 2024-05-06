@@ -23,10 +23,10 @@ All of the major industries of SARs are trending upwards over the last ten years
 
 Based on the upward trend, institutions could use the data presented to aid in preparing for the increased volume of SARs during resource and departmental planning. 
 
-Data used by this application was obtained from the FinCen site below, and configured in Excel.
+Data used by this application was obtained from the FinCen site below, and configured in Excel. I would like to add to the data as more is available to observe whether the increasing number of SARS trend continues, or if it begins to level off. 
+
 SAR Filings by Industry | FinCEN.gov
 https://www.fincen.gov/reports/sar-stats/sar-filings-industry
-
 
 Source links:
 ABA Banking Journal:
@@ -37,5 +37,4 @@ Paul Hastings:
 Key Trends in BSA/AML Compliance: Heightened Regulatory Expectations as Industry Growth Presents New Challenges FPaul Hastings LLP
 https://www.paulhastings.com/insights/client-alerts/key-trends-in-bsaaml-compliance-heightened-regulatory-expectations-as-industry-growth-presents-new-challenges
 
-I would like to add to the data as more is available to observe whether the trend continues, or begins to level off.
 
